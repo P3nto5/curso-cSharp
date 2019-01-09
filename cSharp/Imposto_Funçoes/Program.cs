@@ -1,4 +1,4 @@
-﻿using System;
+﻿using
 
 namespace Imposto_Funçoes
 {
@@ -6,7 +6,7 @@ namespace Imposto_Funçoes
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            global::System.Console.WriteLine("");
         }
     }
 }

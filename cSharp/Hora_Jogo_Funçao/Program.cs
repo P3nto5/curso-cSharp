@@ -6,7 +6,7 @@ namespace Hora_Jogo_Funçao
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            global::System.Console.WriteLine();
         }
     }
 }
