@@ -1,0 +1,7 @@
+C:\Users\Jennifer Hipolito\Desktop\cSharp\CalculadorApp\CalculadorApp\bin\Debug\CalculadorApp.exe.config
+C:\Users\Jennifer Hipolito\Desktop\cSharp\CalculadorApp\CalculadorApp\bin\Debug\CalculadorApp.exe
+C:\Users\Jennifer Hipolito\Desktop\cSharp\CalculadorApp\CalculadorApp\bin\Debug\CalculadorApp.pdb
+C:\Users\Jennifer Hipolito\Desktop\cSharp\CalculadorApp\CalculadorApp\obj\Debug\CalculadorApp.csprojAssemblyReference.cache
+C:\Users\Jennifer Hipolito\Desktop\cSharp\CalculadorApp\CalculadorApp\obj\Debug\CalculadorApp.csproj.CoreCompileInputs.cache
+C:\Users\Jennifer Hipolito\Desktop\cSharp\CalculadorApp\CalculadorApp\obj\Debug\CalculadorApp.exe
+C:\Users\Jennifer Hipolito\Desktop\cSharp\CalculadorApp\CalculadorApp\obj\Debug\CalculadorApp.pdb

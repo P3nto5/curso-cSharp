@@ -1,0 +1,11 @@
+C:\Users\Samuel Viana\Desktop\cSharp\cSharp\Verifica_Multiplos\bin\Debug\netcoreapp2.1\Verifica_Multiplos.deps.json
+C:\Users\Samuel Viana\Desktop\cSharp\cSharp\Verifica_Multiplos\bin\Debug\netcoreapp2.1\Verifica_Multiplos.runtimeconfig.json
+C:\Users\Samuel Viana\Desktop\cSharp\cSharp\Verifica_Multiplos\bin\Debug\netcoreapp2.1\Verifica_Multiplos.runtimeconfig.dev.json
+C:\Users\Samuel Viana\Desktop\cSharp\cSharp\Verifica_Multiplos\bin\Debug\netcoreapp2.1\Verifica_Multiplos.dll
+C:\Users\Samuel Viana\Desktop\cSharp\cSharp\Verifica_Multiplos\bin\Debug\netcoreapp2.1\Verifica_Multiplos.pdb
+C:\Users\Samuel Viana\Desktop\cSharp\cSharp\Verifica_Multiplos\obj\Debug\netcoreapp2.1\Verifica_Multiplos.csprojAssemblyReference.cache
+C:\Users\Samuel Viana\Desktop\cSharp\cSharp\Verifica_Multiplos\obj\Debug\netcoreapp2.1\Verifica_Multiplos.csproj.CoreCompileInputs.cache
+C:\Users\Samuel Viana\Desktop\cSharp\cSharp\Verifica_Multiplos\obj\Debug\netcoreapp2.1\Verifica_Multiplos.AssemblyInfoInputs.cache
+C:\Users\Samuel Viana\Desktop\cSharp\cSharp\Verifica_Multiplos\obj\Debug\netcoreapp2.1\Verifica_Multiplos.AssemblyInfo.cs
+C:\Users\Samuel Viana\Desktop\cSharp\cSharp\Verifica_Multiplos\obj\Debug\netcoreapp2.1\Verifica_Multiplos.dll
+C:\Users\Samuel Viana\Desktop\cSharp\cSharp\Verifica_Multiplos\obj\Debug\netcoreapp2.1\Verifica_Multiplos.pdb

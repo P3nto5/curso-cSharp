@@ -1,0 +1,11 @@
+C:\Users\Samuel Viana\Desktop\cSharp\cSharp\Imposto\bin\Debug\netcoreapp2.1\Imposto.deps.json
+C:\Users\Samuel Viana\Desktop\cSharp\cSharp\Imposto\bin\Debug\netcoreapp2.1\Imposto.runtimeconfig.json
+C:\Users\Samuel Viana\Desktop\cSharp\cSharp\Imposto\bin\Debug\netcoreapp2.1\Imposto.runtimeconfig.dev.json
+C:\Users\Samuel Viana\Desktop\cSharp\cSharp\Imposto\bin\Debug\netcoreapp2.1\Imposto.dll
+C:\Users\Samuel Viana\Desktop\cSharp\cSharp\Imposto\bin\Debug\netcoreapp2.1\Imposto.pdb
+C:\Users\Samuel Viana\Desktop\cSharp\cSharp\Imposto\obj\Debug\netcoreapp2.1\Imposto.csprojAssemblyReference.cache
+C:\Users\Samuel Viana\Desktop\cSharp\cSharp\Imposto\obj\Debug\netcoreapp2.1\Imposto.csproj.CoreCompileInputs.cache
+C:\Users\Samuel Viana\Desktop\cSharp\cSharp\Imposto\obj\Debug\netcoreapp2.1\Imposto.AssemblyInfoInputs.cache
+C:\Users\Samuel Viana\Desktop\cSharp\cSharp\Imposto\obj\Debug\netcoreapp2.1\Imposto.AssemblyInfo.cs
+C:\Users\Samuel Viana\Desktop\cSharp\cSharp\Imposto\obj\Debug\netcoreapp2.1\Imposto.dll
+C:\Users\Samuel Viana\Desktop\cSharp\cSharp\Imposto\obj\Debug\netcoreapp2.1\Imposto.pdb

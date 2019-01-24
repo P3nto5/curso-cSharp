@@ -1,0 +1,11 @@
+C:\Users\Samuel Viana\Desktop\cSharp\cSharp\Quantidade_de_Impares\bin\Debug\netcoreapp2.1\Quantidade_de_Impares.deps.json
+C:\Users\Samuel Viana\Desktop\cSharp\cSharp\Quantidade_de_Impares\bin\Debug\netcoreapp2.1\Quantidade_de_Impares.runtimeconfig.json
+C:\Users\Samuel Viana\Desktop\cSharp\cSharp\Quantidade_de_Impares\bin\Debug\netcoreapp2.1\Quantidade_de_Impares.runtimeconfig.dev.json
+C:\Users\Samuel Viana\Desktop\cSharp\cSharp\Quantidade_de_Impares\bin\Debug\netcoreapp2.1\Quantidade_de_Impares.dll
+C:\Users\Samuel Viana\Desktop\cSharp\cSharp\Quantidade_de_Impares\bin\Debug\netcoreapp2.1\Quantidade_de_Impares.pdb
+C:\Users\Samuel Viana\Desktop\cSharp\cSharp\Quantidade_de_Impares\obj\Debug\netcoreapp2.1\Quantidade_de_Impares.csproj.CoreCompileInputs.cache
+C:\Users\Samuel Viana\Desktop\cSharp\cSharp\Quantidade_de_Impares\obj\Debug\netcoreapp2.1\Quantidade_de_Impares.AssemblyInfoInputs.cache
+C:\Users\Samuel Viana\Desktop\cSharp\cSharp\Quantidade_de_Impares\obj\Debug\netcoreapp2.1\Quantidade_de_Impares.AssemblyInfo.cs
+C:\Users\Samuel Viana\Desktop\cSharp\cSharp\Quantidade_de_Impares\obj\Debug\netcoreapp2.1\Quantidade_de_Impares.dll
+C:\Users\Samuel Viana\Desktop\cSharp\cSharp\Quantidade_de_Impares\obj\Debug\netcoreapp2.1\Quantidade_de_Impares.pdb
+C:\Users\Samuel Viana\Desktop\cSharp\cSharp\Quantidade_de_Impares\obj\Debug\netcoreapp2.1\Quantidade_de_Impares.csprojAssemblyReference.cache

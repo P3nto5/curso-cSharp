@@ -1,0 +1,10 @@
+C:\Users\Samuel Viana\Desktop\cSharp\cSharp\Validaçao_Senha\bin\Debug\netcoreapp2.1\Validaçao_Senha.deps.json
+C:\Users\Samuel Viana\Desktop\cSharp\cSharp\Validaçao_Senha\bin\Debug\netcoreapp2.1\Validaçao_Senha.runtimeconfig.json
+C:\Users\Samuel Viana\Desktop\cSharp\cSharp\Validaçao_Senha\bin\Debug\netcoreapp2.1\Validaçao_Senha.runtimeconfig.dev.json
+C:\Users\Samuel Viana\Desktop\cSharp\cSharp\Validaçao_Senha\bin\Debug\netcoreapp2.1\Validaçao_Senha.dll
+C:\Users\Samuel Viana\Desktop\cSharp\cSharp\Validaçao_Senha\bin\Debug\netcoreapp2.1\Validaçao_Senha.pdb
+C:\Users\Samuel Viana\Desktop\cSharp\cSharp\Validaçao_Senha\obj\Debug\netcoreapp2.1\Validaçao_Senha.csproj.CoreCompileInputs.cache
+C:\Users\Samuel Viana\Desktop\cSharp\cSharp\Validaçao_Senha\obj\Debug\netcoreapp2.1\Validaçao_Senha.AssemblyInfoInputs.cache
+C:\Users\Samuel Viana\Desktop\cSharp\cSharp\Validaçao_Senha\obj\Debug\netcoreapp2.1\Validaçao_Senha.AssemblyInfo.cs
+C:\Users\Samuel Viana\Desktop\cSharp\cSharp\Validaçao_Senha\obj\Debug\netcoreapp2.1\Validaçao_Senha.dll
+C:\Users\Samuel Viana\Desktop\cSharp\cSharp\Validaçao_Senha\obj\Debug\netcoreapp2.1\Validaçao_Senha.pdb

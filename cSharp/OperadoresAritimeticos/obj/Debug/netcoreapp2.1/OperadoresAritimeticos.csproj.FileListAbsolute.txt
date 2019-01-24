@@ -1,0 +1,11 @@
+C:\Users\Samuel Viana\Desktop\cSharp\cSharp\OperadoresAritimeticos\bin\Debug\netcoreapp2.1\OperadoresAritimeticos.deps.json
+C:\Users\Samuel Viana\Desktop\cSharp\cSharp\OperadoresAritimeticos\bin\Debug\netcoreapp2.1\OperadoresAritimeticos.runtimeconfig.json
+C:\Users\Samuel Viana\Desktop\cSharp\cSharp\OperadoresAritimeticos\bin\Debug\netcoreapp2.1\OperadoresAritimeticos.runtimeconfig.dev.json
+C:\Users\Samuel Viana\Desktop\cSharp\cSharp\OperadoresAritimeticos\bin\Debug\netcoreapp2.1\OperadoresAritimeticos.dll
+C:\Users\Samuel Viana\Desktop\cSharp\cSharp\OperadoresAritimeticos\bin\Debug\netcoreapp2.1\OperadoresAritimeticos.pdb
+C:\Users\Samuel Viana\Desktop\cSharp\cSharp\OperadoresAritimeticos\obj\Debug\netcoreapp2.1\OperadoresAritimeticos.csproj.CoreCompileInputs.cache
+C:\Users\Samuel Viana\Desktop\cSharp\cSharp\OperadoresAritimeticos\obj\Debug\netcoreapp2.1\OperadoresAritimeticos.AssemblyInfoInputs.cache
+C:\Users\Samuel Viana\Desktop\cSharp\cSharp\OperadoresAritimeticos\obj\Debug\netcoreapp2.1\OperadoresAritimeticos.AssemblyInfo.cs
+C:\Users\Samuel Viana\Desktop\cSharp\cSharp\OperadoresAritimeticos\obj\Debug\netcoreapp2.1\OperadoresAritimeticos.dll
+C:\Users\Samuel Viana\Desktop\cSharp\cSharp\OperadoresAritimeticos\obj\Debug\netcoreapp2.1\OperadoresAritimeticos.pdb
+C:\Users\Samuel Viana\Desktop\cSharp\cSharp\OperadoresAritimeticos\obj\Debug\netcoreapp2.1\OperadoresAritimeticos.csprojAssemblyReference.cache

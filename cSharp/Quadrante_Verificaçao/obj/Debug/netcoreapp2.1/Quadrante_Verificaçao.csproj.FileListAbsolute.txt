@@ -1,0 +1,11 @@
+C:\Users\Samuel Viana\Desktop\cSharp\cSharp\Quadrante_Verificaçao\bin\Debug\netcoreapp2.1\Quadrante_Verificaçao.deps.json
+C:\Users\Samuel Viana\Desktop\cSharp\cSharp\Quadrante_Verificaçao\bin\Debug\netcoreapp2.1\Quadrante_Verificaçao.runtimeconfig.json
+C:\Users\Samuel Viana\Desktop\cSharp\cSharp\Quadrante_Verificaçao\bin\Debug\netcoreapp2.1\Quadrante_Verificaçao.runtimeconfig.dev.json
+C:\Users\Samuel Viana\Desktop\cSharp\cSharp\Quadrante_Verificaçao\bin\Debug\netcoreapp2.1\Quadrante_Verificaçao.dll
+C:\Users\Samuel Viana\Desktop\cSharp\cSharp\Quadrante_Verificaçao\bin\Debug\netcoreapp2.1\Quadrante_Verificaçao.pdb
+C:\Users\Samuel Viana\Desktop\cSharp\cSharp\Quadrante_Verificaçao\obj\Debug\netcoreapp2.1\Quadrante_Verificaçao.csprojAssemblyReference.cache
+C:\Users\Samuel Viana\Desktop\cSharp\cSharp\Quadrante_Verificaçao\obj\Debug\netcoreapp2.1\Quadrante_Verificaçao.csproj.CoreCompileInputs.cache
+C:\Users\Samuel Viana\Desktop\cSharp\cSharp\Quadrante_Verificaçao\obj\Debug\netcoreapp2.1\Quadrante_Verificaçao.AssemblyInfoInputs.cache
+C:\Users\Samuel Viana\Desktop\cSharp\cSharp\Quadrante_Verificaçao\obj\Debug\netcoreapp2.1\Quadrante_Verificaçao.AssemblyInfo.cs
+C:\Users\Samuel Viana\Desktop\cSharp\cSharp\Quadrante_Verificaçao\obj\Debug\netcoreapp2.1\Quadrante_Verificaçao.dll
+C:\Users\Samuel Viana\Desktop\cSharp\cSharp\Quadrante_Verificaçao\obj\Debug\netcoreapp2.1\Quadrante_Verificaçao.pdb

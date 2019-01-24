@@ -1,0 +1,11 @@
+C:\Users\Samuel Viana\Desktop\cSharp\cSharp\Exemplo_While\bin\Debug\netcoreapp2.1\Exemplo_While.deps.json
+C:\Users\Samuel Viana\Desktop\cSharp\cSharp\Exemplo_While\bin\Debug\netcoreapp2.1\Exemplo_While.runtimeconfig.json
+C:\Users\Samuel Viana\Desktop\cSharp\cSharp\Exemplo_While\bin\Debug\netcoreapp2.1\Exemplo_While.runtimeconfig.dev.json
+C:\Users\Samuel Viana\Desktop\cSharp\cSharp\Exemplo_While\bin\Debug\netcoreapp2.1\Exemplo_While.dll
+C:\Users\Samuel Viana\Desktop\cSharp\cSharp\Exemplo_While\bin\Debug\netcoreapp2.1\Exemplo_While.pdb
+C:\Users\Samuel Viana\Desktop\cSharp\cSharp\Exemplo_While\obj\Debug\netcoreapp2.1\Exemplo_While.csproj.CoreCompileInputs.cache
+C:\Users\Samuel Viana\Desktop\cSharp\cSharp\Exemplo_While\obj\Debug\netcoreapp2.1\Exemplo_While.AssemblyInfoInputs.cache
+C:\Users\Samuel Viana\Desktop\cSharp\cSharp\Exemplo_While\obj\Debug\netcoreapp2.1\Exemplo_While.AssemblyInfo.cs
+C:\Users\Samuel Viana\Desktop\cSharp\cSharp\Exemplo_While\obj\Debug\netcoreapp2.1\Exemplo_While.dll
+C:\Users\Samuel Viana\Desktop\cSharp\cSharp\Exemplo_While\obj\Debug\netcoreapp2.1\Exemplo_While.pdb
+C:\Users\Samuel Viana\Desktop\cSharp\cSharp\Exemplo_While\obj\Debug\netcoreapp2.1\Exemplo_While.csprojAssemblyReference.cache

@@ -1,0 +1,11 @@
+C:\Users\Samuel Viana\Desktop\cSharp\cSharp\Verifica_Imp_Par\bin\Debug\netcoreapp2.1\Verifica_Imp_Par.deps.json
+C:\Users\Samuel Viana\Desktop\cSharp\cSharp\Verifica_Imp_Par\bin\Debug\netcoreapp2.1\Verifica_Imp_Par.runtimeconfig.json
+C:\Users\Samuel Viana\Desktop\cSharp\cSharp\Verifica_Imp_Par\bin\Debug\netcoreapp2.1\Verifica_Imp_Par.runtimeconfig.dev.json
+C:\Users\Samuel Viana\Desktop\cSharp\cSharp\Verifica_Imp_Par\bin\Debug\netcoreapp2.1\Verifica_Imp_Par.dll
+C:\Users\Samuel Viana\Desktop\cSharp\cSharp\Verifica_Imp_Par\bin\Debug\netcoreapp2.1\Verifica_Imp_Par.pdb
+C:\Users\Samuel Viana\Desktop\cSharp\cSharp\Verifica_Imp_Par\obj\Debug\netcoreapp2.1\Verifica_Imp_Par.csproj.CoreCompileInputs.cache
+C:\Users\Samuel Viana\Desktop\cSharp\cSharp\Verifica_Imp_Par\obj\Debug\netcoreapp2.1\Verifica_Imp_Par.AssemblyInfoInputs.cache
+C:\Users\Samuel Viana\Desktop\cSharp\cSharp\Verifica_Imp_Par\obj\Debug\netcoreapp2.1\Verifica_Imp_Par.AssemblyInfo.cs
+C:\Users\Samuel Viana\Desktop\cSharp\cSharp\Verifica_Imp_Par\obj\Debug\netcoreapp2.1\Verifica_Imp_Par.dll
+C:\Users\Samuel Viana\Desktop\cSharp\cSharp\Verifica_Imp_Par\obj\Debug\netcoreapp2.1\Verifica_Imp_Par.pdb
+C:\Users\Samuel Viana\Desktop\cSharp\cSharp\Verifica_Imp_Par\obj\Debug\netcoreapp2.1\Verifica_Imp_Par.csprojAssemblyReference.cache

@@ -1,0 +1,11 @@
+C:\Users\Samuel Viana\Desktop\cSharp\cSharp\Exercicio1\bin\Debug\netcoreapp2.1\Parte1_Exercicio1.deps.json
+C:\Users\Samuel Viana\Desktop\cSharp\cSharp\Exercicio1\bin\Debug\netcoreapp2.1\Parte1_Exercicio1.runtimeconfig.json
+C:\Users\Samuel Viana\Desktop\cSharp\cSharp\Exercicio1\bin\Debug\netcoreapp2.1\Parte1_Exercicio1.runtimeconfig.dev.json
+C:\Users\Samuel Viana\Desktop\cSharp\cSharp\Exercicio1\bin\Debug\netcoreapp2.1\Parte1_Exercicio1.dll
+C:\Users\Samuel Viana\Desktop\cSharp\cSharp\Exercicio1\bin\Debug\netcoreapp2.1\Parte1_Exercicio1.pdb
+C:\Users\Samuel Viana\Desktop\cSharp\cSharp\Exercicio1\obj\Debug\netcoreapp2.1\Parte1_Exercicio1.csproj.CoreCompileInputs.cache
+C:\Users\Samuel Viana\Desktop\cSharp\cSharp\Exercicio1\obj\Debug\netcoreapp2.1\Parte1_Exercicio1.AssemblyInfoInputs.cache
+C:\Users\Samuel Viana\Desktop\cSharp\cSharp\Exercicio1\obj\Debug\netcoreapp2.1\Parte1_Exercicio1.AssemblyInfo.cs
+C:\Users\Samuel Viana\Desktop\cSharp\cSharp\Exercicio1\obj\Debug\netcoreapp2.1\Parte1_Exercicio1.dll
+C:\Users\Samuel Viana\Desktop\cSharp\cSharp\Exercicio1\obj\Debug\netcoreapp2.1\Parte1_Exercicio1.pdb
+C:\Users\Samuel Viana\Desktop\cSharp\cSharp\Exercicio1\obj\Debug\netcoreapp2.1\Parte1_Exercicio1.csprojAssemblyReference.cache

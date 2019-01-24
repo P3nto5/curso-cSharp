@@ -1,0 +1,10 @@
+C:\Users\Samuel Viana\Desktop\cSharp\cSharp\Funçoes_Exemplo\bin\Debug\netcoreapp2.1\Funçoes_Exemplo.deps.json
+C:\Users\Samuel Viana\Desktop\cSharp\cSharp\Funçoes_Exemplo\bin\Debug\netcoreapp2.1\Funçoes_Exemplo.runtimeconfig.json
+C:\Users\Samuel Viana\Desktop\cSharp\cSharp\Funçoes_Exemplo\bin\Debug\netcoreapp2.1\Funçoes_Exemplo.runtimeconfig.dev.json
+C:\Users\Samuel Viana\Desktop\cSharp\cSharp\Funçoes_Exemplo\bin\Debug\netcoreapp2.1\Funçoes_Exemplo.dll
+C:\Users\Samuel Viana\Desktop\cSharp\cSharp\Funçoes_Exemplo\bin\Debug\netcoreapp2.1\Funçoes_Exemplo.pdb
+C:\Users\Samuel Viana\Desktop\cSharp\cSharp\Funçoes_Exemplo\obj\Debug\netcoreapp2.1\Funçoes_Exemplo.csproj.CoreCompileInputs.cache
+C:\Users\Samuel Viana\Desktop\cSharp\cSharp\Funçoes_Exemplo\obj\Debug\netcoreapp2.1\Funçoes_Exemplo.AssemblyInfoInputs.cache
+C:\Users\Samuel Viana\Desktop\cSharp\cSharp\Funçoes_Exemplo\obj\Debug\netcoreapp2.1\Funçoes_Exemplo.AssemblyInfo.cs
+C:\Users\Samuel Viana\Desktop\cSharp\cSharp\Funçoes_Exemplo\obj\Debug\netcoreapp2.1\Funçoes_Exemplo.dll
+C:\Users\Samuel Viana\Desktop\cSharp\cSharp\Funçoes_Exemplo\obj\Debug\netcoreapp2.1\Funçoes_Exemplo.pdb

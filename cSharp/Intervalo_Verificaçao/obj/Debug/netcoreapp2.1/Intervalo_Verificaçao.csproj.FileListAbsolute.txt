@@ -1,0 +1,11 @@
+C:\Users\Samuel Viana\Desktop\cSharp\cSharp\Intervalo_Verificaçao\bin\Debug\netcoreapp2.1\Intervalo_Verificaçao.deps.json
+C:\Users\Samuel Viana\Desktop\cSharp\cSharp\Intervalo_Verificaçao\bin\Debug\netcoreapp2.1\Intervalo_Verificaçao.runtimeconfig.json
+C:\Users\Samuel Viana\Desktop\cSharp\cSharp\Intervalo_Verificaçao\bin\Debug\netcoreapp2.1\Intervalo_Verificaçao.runtimeconfig.dev.json
+C:\Users\Samuel Viana\Desktop\cSharp\cSharp\Intervalo_Verificaçao\bin\Debug\netcoreapp2.1\Intervalo_Verificaçao.dll
+C:\Users\Samuel Viana\Desktop\cSharp\cSharp\Intervalo_Verificaçao\bin\Debug\netcoreapp2.1\Intervalo_Verificaçao.pdb
+C:\Users\Samuel Viana\Desktop\cSharp\cSharp\Intervalo_Verificaçao\obj\Debug\netcoreapp2.1\Intervalo_Verificaçao.csprojAssemblyReference.cache
+C:\Users\Samuel Viana\Desktop\cSharp\cSharp\Intervalo_Verificaçao\obj\Debug\netcoreapp2.1\Intervalo_Verificaçao.csproj.CoreCompileInputs.cache
+C:\Users\Samuel Viana\Desktop\cSharp\cSharp\Intervalo_Verificaçao\obj\Debug\netcoreapp2.1\Intervalo_Verificaçao.AssemblyInfoInputs.cache
+C:\Users\Samuel Viana\Desktop\cSharp\cSharp\Intervalo_Verificaçao\obj\Debug\netcoreapp2.1\Intervalo_Verificaçao.AssemblyInfo.cs
+C:\Users\Samuel Viana\Desktop\cSharp\cSharp\Intervalo_Verificaçao\obj\Debug\netcoreapp2.1\Intervalo_Verificaçao.dll
+C:\Users\Samuel Viana\Desktop\cSharp\cSharp\Intervalo_Verificaçao\obj\Debug\netcoreapp2.1\Intervalo_Verificaçao.pdb

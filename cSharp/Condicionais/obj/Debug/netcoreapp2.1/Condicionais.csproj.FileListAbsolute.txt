@@ -1,0 +1,11 @@
+C:\Users\Samuel Viana\Desktop\cSharp\cSharp\Condicionais\bin\Debug\netcoreapp2.1\Condicionais.deps.json
+C:\Users\Samuel Viana\Desktop\cSharp\cSharp\Condicionais\bin\Debug\netcoreapp2.1\Condicionais.runtimeconfig.json
+C:\Users\Samuel Viana\Desktop\cSharp\cSharp\Condicionais\bin\Debug\netcoreapp2.1\Condicionais.runtimeconfig.dev.json
+C:\Users\Samuel Viana\Desktop\cSharp\cSharp\Condicionais\bin\Debug\netcoreapp2.1\Condicionais.dll
+C:\Users\Samuel Viana\Desktop\cSharp\cSharp\Condicionais\bin\Debug\netcoreapp2.1\Condicionais.pdb
+C:\Users\Samuel Viana\Desktop\cSharp\cSharp\Condicionais\obj\Debug\netcoreapp2.1\Condicionais.csproj.CoreCompileInputs.cache
+C:\Users\Samuel Viana\Desktop\cSharp\cSharp\Condicionais\obj\Debug\netcoreapp2.1\Condicionais.AssemblyInfoInputs.cache
+C:\Users\Samuel Viana\Desktop\cSharp\cSharp\Condicionais\obj\Debug\netcoreapp2.1\Condicionais.AssemblyInfo.cs
+C:\Users\Samuel Viana\Desktop\cSharp\cSharp\Condicionais\obj\Debug\netcoreapp2.1\Condicionais.dll
+C:\Users\Samuel Viana\Desktop\cSharp\cSharp\Condicionais\obj\Debug\netcoreapp2.1\Condicionais.pdb
+C:\Users\Samuel Viana\Desktop\cSharp\cSharp\Condicionais\obj\Debug\netcoreapp2.1\Condicionais.csprojAssemblyReference.cache

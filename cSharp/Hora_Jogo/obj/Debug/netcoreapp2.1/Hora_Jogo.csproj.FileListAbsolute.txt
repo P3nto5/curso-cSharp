@@ -1,0 +1,10 @@
+C:\Users\Samuel Viana\Desktop\cSharp\cSharp\Hora_Jogo\bin\Debug\netcoreapp2.1\Hora_Jogo.deps.json
+C:\Users\Samuel Viana\Desktop\cSharp\cSharp\Hora_Jogo\bin\Debug\netcoreapp2.1\Hora_Jogo.runtimeconfig.json
+C:\Users\Samuel Viana\Desktop\cSharp\cSharp\Hora_Jogo\bin\Debug\netcoreapp2.1\Hora_Jogo.runtimeconfig.dev.json
+C:\Users\Samuel Viana\Desktop\cSharp\cSharp\Hora_Jogo\bin\Debug\netcoreapp2.1\Hora_Jogo.dll
+C:\Users\Samuel Viana\Desktop\cSharp\cSharp\Hora_Jogo\bin\Debug\netcoreapp2.1\Hora_Jogo.pdb
+C:\Users\Samuel Viana\Desktop\cSharp\cSharp\Hora_Jogo\obj\Debug\netcoreapp2.1\Hora_Jogo.csproj.CoreCompileInputs.cache
+C:\Users\Samuel Viana\Desktop\cSharp\cSharp\Hora_Jogo\obj\Debug\netcoreapp2.1\Hora_Jogo.AssemblyInfoInputs.cache
+C:\Users\Samuel Viana\Desktop\cSharp\cSharp\Hora_Jogo\obj\Debug\netcoreapp2.1\Hora_Jogo.AssemblyInfo.cs
+C:\Users\Samuel Viana\Desktop\cSharp\cSharp\Hora_Jogo\obj\Debug\netcoreapp2.1\Hora_Jogo.dll
+C:\Users\Samuel Viana\Desktop\cSharp\cSharp\Hora_Jogo\obj\Debug\netcoreapp2.1\Hora_Jogo.pdb

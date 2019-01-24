@@ -1,0 +1,10 @@
+C:\Users\Samuel Viana\Desktop\cSharp\cSharp\Verifica_Sinal\bin\Debug\netcoreapp2.1\Verifica_Sinal.deps.json
+C:\Users\Samuel Viana\Desktop\cSharp\cSharp\Verifica_Sinal\bin\Debug\netcoreapp2.1\Verifica_Sinal.runtimeconfig.json
+C:\Users\Samuel Viana\Desktop\cSharp\cSharp\Verifica_Sinal\bin\Debug\netcoreapp2.1\Verifica_Sinal.runtimeconfig.dev.json
+C:\Users\Samuel Viana\Desktop\cSharp\cSharp\Verifica_Sinal\bin\Debug\netcoreapp2.1\Verifica_Sinal.dll
+C:\Users\Samuel Viana\Desktop\cSharp\cSharp\Verifica_Sinal\bin\Debug\netcoreapp2.1\Verifica_Sinal.pdb
+C:\Users\Samuel Viana\Desktop\cSharp\cSharp\Verifica_Sinal\obj\Debug\netcoreapp2.1\Verifica_Sinal.csproj.CoreCompileInputs.cache
+C:\Users\Samuel Viana\Desktop\cSharp\cSharp\Verifica_Sinal\obj\Debug\netcoreapp2.1\Verifica_Sinal.AssemblyInfoInputs.cache
+C:\Users\Samuel Viana\Desktop\cSharp\cSharp\Verifica_Sinal\obj\Debug\netcoreapp2.1\Verifica_Sinal.AssemblyInfo.cs
+C:\Users\Samuel Viana\Desktop\cSharp\cSharp\Verifica_Sinal\obj\Debug\netcoreapp2.1\Verifica_Sinal.dll
+C:\Users\Samuel Viana\Desktop\cSharp\cSharp\Verifica_Sinal\obj\Debug\netcoreapp2.1\Verifica_Sinal.pdb

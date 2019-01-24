@@ -1,0 +1,11 @@
+C:\Users\Samuel Viana\Desktop\cSharp\cSharp\Gasolina_Verificaçao\bin\Debug\netcoreapp2.1\Gasolina_Verificaçao.deps.json
+C:\Users\Samuel Viana\Desktop\cSharp\cSharp\Gasolina_Verificaçao\bin\Debug\netcoreapp2.1\Gasolina_Verificaçao.runtimeconfig.json
+C:\Users\Samuel Viana\Desktop\cSharp\cSharp\Gasolina_Verificaçao\bin\Debug\netcoreapp2.1\Gasolina_Verificaçao.runtimeconfig.dev.json
+C:\Users\Samuel Viana\Desktop\cSharp\cSharp\Gasolina_Verificaçao\bin\Debug\netcoreapp2.1\Gasolina_Verificaçao.dll
+C:\Users\Samuel Viana\Desktop\cSharp\cSharp\Gasolina_Verificaçao\bin\Debug\netcoreapp2.1\Gasolina_Verificaçao.pdb
+C:\Users\Samuel Viana\Desktop\cSharp\cSharp\Gasolina_Verificaçao\obj\Debug\netcoreapp2.1\Gasolina_Verificaçao.csprojAssemblyReference.cache
+C:\Users\Samuel Viana\Desktop\cSharp\cSharp\Gasolina_Verificaçao\obj\Debug\netcoreapp2.1\Gasolina_Verificaçao.csproj.CoreCompileInputs.cache
+C:\Users\Samuel Viana\Desktop\cSharp\cSharp\Gasolina_Verificaçao\obj\Debug\netcoreapp2.1\Gasolina_Verificaçao.AssemblyInfoInputs.cache
+C:\Users\Samuel Viana\Desktop\cSharp\cSharp\Gasolina_Verificaçao\obj\Debug\netcoreapp2.1\Gasolina_Verificaçao.AssemblyInfo.cs
+C:\Users\Samuel Viana\Desktop\cSharp\cSharp\Gasolina_Verificaçao\obj\Debug\netcoreapp2.1\Gasolina_Verificaçao.dll
+C:\Users\Samuel Viana\Desktop\cSharp\cSharp\Gasolina_Verificaçao\obj\Debug\netcoreapp2.1\Gasolina_Verificaçao.pdb

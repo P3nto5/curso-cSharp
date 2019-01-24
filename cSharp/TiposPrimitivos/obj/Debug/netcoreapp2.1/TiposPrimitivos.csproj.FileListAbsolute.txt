@@ -1,0 +1,11 @@
+C:\Users\Samuel Viana\Desktop\cSharp\cSharp\TiposPrimitivos\bin\Debug\netcoreapp2.1\TiposPrimitivos.deps.json
+C:\Users\Samuel Viana\Desktop\cSharp\cSharp\TiposPrimitivos\bin\Debug\netcoreapp2.1\TiposPrimitivos.runtimeconfig.json
+C:\Users\Samuel Viana\Desktop\cSharp\cSharp\TiposPrimitivos\bin\Debug\netcoreapp2.1\TiposPrimitivos.runtimeconfig.dev.json
+C:\Users\Samuel Viana\Desktop\cSharp\cSharp\TiposPrimitivos\bin\Debug\netcoreapp2.1\TiposPrimitivos.dll
+C:\Users\Samuel Viana\Desktop\cSharp\cSharp\TiposPrimitivos\bin\Debug\netcoreapp2.1\TiposPrimitivos.pdb
+C:\Users\Samuel Viana\Desktop\cSharp\cSharp\TiposPrimitivos\obj\Debug\netcoreapp2.1\TiposPrimitivos.csprojAssemblyReference.cache
+C:\Users\Samuel Viana\Desktop\cSharp\cSharp\TiposPrimitivos\obj\Debug\netcoreapp2.1\TiposPrimitivos.csproj.CoreCompileInputs.cache
+C:\Users\Samuel Viana\Desktop\cSharp\cSharp\TiposPrimitivos\obj\Debug\netcoreapp2.1\TiposPrimitivos.AssemblyInfoInputs.cache
+C:\Users\Samuel Viana\Desktop\cSharp\cSharp\TiposPrimitivos\obj\Debug\netcoreapp2.1\TiposPrimitivos.AssemblyInfo.cs
+C:\Users\Samuel Viana\Desktop\cSharp\cSharp\TiposPrimitivos\obj\Debug\netcoreapp2.1\TiposPrimitivos.dll
+C:\Users\Samuel Viana\Desktop\cSharp\cSharp\TiposPrimitivos\obj\Debug\netcoreapp2.1\TiposPrimitivos.pdb

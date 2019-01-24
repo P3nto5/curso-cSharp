@@ -1,0 +1,7 @@
+C:\Users\Samuel Viana\Desktop\cSharp\cSharp\cSharp\bin\Debug\cSharp.exe.config
+C:\Users\Samuel Viana\Desktop\cSharp\cSharp\cSharp\bin\Debug\cSharp.exe
+C:\Users\Samuel Viana\Desktop\cSharp\cSharp\cSharp\bin\Debug\cSharp.pdb
+C:\Users\Samuel Viana\Desktop\cSharp\cSharp\cSharp\obj\Debug\cSharp.csproj.CoreCompileInputs.cache
+C:\Users\Samuel Viana\Desktop\cSharp\cSharp\cSharp\obj\Debug\cSharp.exe
+C:\Users\Samuel Viana\Desktop\cSharp\cSharp\cSharp\obj\Debug\cSharp.pdb
+C:\Users\Samuel Viana\Desktop\cSharp\cSharp\cSharp\obj\Debug\cSharp.csprojAssemblyReference.cache
