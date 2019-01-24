@@ -7,9 +7,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TabuadaApp", "CalculadorApp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculadoraApp", "..\Calculadora\CalculadoraApp.csproj", "{014EFAF7-8BDA-48DA-8D70-8F8C5CC28095}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "calculadoraPOO", "calculadoraPOO\calculadoraPOO.csproj", "{521F4E4E-6155-47E5-829F-435B2C081821}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "calculadoraPOO", "calculadoraPOO\calculadoraPOO.csproj", "{521F4E4E-6155-47E5-829F-435B2C081821}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaximoMin", "MaximoMin\MaximoMin.csproj", "{3F71176B-90A5-471F-89DC-E180B764F6A6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MaximoMin", "MaximoMin\MaximoMin.csproj", "{3F71176B-90A5-471F-89DC-E180B764F6A6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Validador_Character", "Validador_Character\Validador_Character.csproj", "{34E6B603-4BB9-4E5D-8286-D7AD6231DE10}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{3F71176B-90A5-471F-89DC-E180B764F6A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3F71176B-90A5-471F-89DC-E180B764F6A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3F71176B-90A5-471F-89DC-E180B764F6A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{34E6B603-4BB9-4E5D-8286-D7AD6231DE10}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34E6B603-4BB9-4E5D-8286-D7AD6231DE10}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34E6B603-4BB9-4E5D-8286-D7AD6231DE10}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34E6B603-4BB9-4E5D-8286-D7AD6231DE10}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
