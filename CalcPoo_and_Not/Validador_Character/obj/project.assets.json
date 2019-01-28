@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Samuel Viana\\Desktop\\cSharp\\CalcPoo_and_Not\\Validador_Character\\Validador_Character.csproj",
+      "projectUniqueName": "C:\\Users\\Samuel Viana\\Desktop\\curso-cSharp\\CalcPoo_and_Not\\Validador_Character\\Validador_Character.csproj",
       "projectName": "Validador_Character",
-      "projectPath": "C:\\Users\\Samuel Viana\\Desktop\\cSharp\\CalcPoo_and_Not\\Validador_Character\\Validador_Character.csproj",
+      "projectPath": "C:\\Users\\Samuel Viana\\Desktop\\curso-cSharp\\CalcPoo_and_Not\\Validador_Character\\Validador_Character.csproj",
       "packagesPath": "C:\\Users\\Samuel Viana\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Samuel Viana\\Desktop\\cSharp\\CalcPoo_and_Not\\Validador_Character\\obj\\",
+      "outputPath": "C:\\Users\\Samuel Viana\\Desktop\\curso-cSharp\\CalcPoo_and_Not\\Validador_Character\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

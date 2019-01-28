@@ -1,0 +1,11 @@
+C:\Users\Samuel Viana\Desktop\curso-cSharp\CalcPoo_and_Not\Triangulo\bin\Debug\netcoreapp2.1\Triangulo.deps.json
+C:\Users\Samuel Viana\Desktop\curso-cSharp\CalcPoo_and_Not\Triangulo\bin\Debug\netcoreapp2.1\Triangulo.runtimeconfig.json
+C:\Users\Samuel Viana\Desktop\curso-cSharp\CalcPoo_and_Not\Triangulo\bin\Debug\netcoreapp2.1\Triangulo.runtimeconfig.dev.json
+C:\Users\Samuel Viana\Desktop\curso-cSharp\CalcPoo_and_Not\Triangulo\bin\Debug\netcoreapp2.1\Triangulo.dll
+C:\Users\Samuel Viana\Desktop\curso-cSharp\CalcPoo_and_Not\Triangulo\bin\Debug\netcoreapp2.1\Triangulo.pdb
+C:\Users\Samuel Viana\Desktop\curso-cSharp\CalcPoo_and_Not\Triangulo\obj\Debug\netcoreapp2.1\Triangulo.csprojAssemblyReference.cache
+C:\Users\Samuel Viana\Desktop\curso-cSharp\CalcPoo_and_Not\Triangulo\obj\Debug\netcoreapp2.1\Triangulo.csproj.CoreCompileInputs.cache
+C:\Users\Samuel Viana\Desktop\curso-cSharp\CalcPoo_and_Not\Triangulo\obj\Debug\netcoreapp2.1\Triangulo.AssemblyInfoInputs.cache
+C:\Users\Samuel Viana\Desktop\curso-cSharp\CalcPoo_and_Not\Triangulo\obj\Debug\netcoreapp2.1\Triangulo.AssemblyInfo.cs
+C:\Users\Samuel Viana\Desktop\curso-cSharp\CalcPoo_and_Not\Triangulo\obj\Debug\netcoreapp2.1\Triangulo.dll
+C:\Users\Samuel Viana\Desktop\curso-cSharp\CalcPoo_and_Not\Triangulo\obj\Debug\netcoreapp2.1\Triangulo.pdb

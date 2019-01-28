@@ -1,0 +1,11 @@
+C:\Users\Samuel Viana\Desktop\curso-cSharp\CalcPoo_and_Not\Loja\bin\Debug\netcoreapp2.1\Loja.deps.json
+C:\Users\Samuel Viana\Desktop\curso-cSharp\CalcPoo_and_Not\Loja\bin\Debug\netcoreapp2.1\Loja.runtimeconfig.json
+C:\Users\Samuel Viana\Desktop\curso-cSharp\CalcPoo_and_Not\Loja\bin\Debug\netcoreapp2.1\Loja.runtimeconfig.dev.json
+C:\Users\Samuel Viana\Desktop\curso-cSharp\CalcPoo_and_Not\Loja\bin\Debug\netcoreapp2.1\Loja.dll
+C:\Users\Samuel Viana\Desktop\curso-cSharp\CalcPoo_and_Not\Loja\bin\Debug\netcoreapp2.1\Loja.pdb
+C:\Users\Samuel Viana\Desktop\curso-cSharp\CalcPoo_and_Not\Loja\obj\Debug\netcoreapp2.1\Loja.csprojAssemblyReference.cache
+C:\Users\Samuel Viana\Desktop\curso-cSharp\CalcPoo_and_Not\Loja\obj\Debug\netcoreapp2.1\Loja.csproj.CoreCompileInputs.cache
+C:\Users\Samuel Viana\Desktop\curso-cSharp\CalcPoo_and_Not\Loja\obj\Debug\netcoreapp2.1\Loja.AssemblyInfoInputs.cache
+C:\Users\Samuel Viana\Desktop\curso-cSharp\CalcPoo_and_Not\Loja\obj\Debug\netcoreapp2.1\Loja.AssemblyInfo.cs
+C:\Users\Samuel Viana\Desktop\curso-cSharp\CalcPoo_and_Not\Loja\obj\Debug\netcoreapp2.1\Loja.dll
+C:\Users\Samuel Viana\Desktop\curso-cSharp\CalcPoo_and_Not\Loja\obj\Debug\netcoreapp2.1\Loja.pdb
