@@ -4,99 +4,48 @@ using System.Text.RegularExpressions;
 
 namespace calculadoraPOO
 {
-    class Soma
-    {
-        public double soma(double n1,double n2)
-        {
-            double resultado;
-            resultado = n1 + n2;
-            return resultado;
-        }
-    }
-    class Subtraçao
-    {
-        public double subtraçao(double n1,double n2)
-        {
-            double resultado;
-            resultado = n1 - n2;
-            return resultado;
-        }
-    }
-    class Multiplicaçao
-    {
-        public double multiplicaçao(double n1, double n2)
-        {
-            double resultado;
-            resultado = n1 * n2;
-            return resultado;
-        }
-    }
-    class Divisao
-    {
-        public double divisao(double n1, double n2)
-        {
-            double resultado;
-            resultado = n1 / n2;
-            return resultado;
-        }
-    }
-    /*class Operadores
-    {
-        public double operadores(string opera)
-        {
-            
-        }
-    }
-    */
+  
     class main
     {
-
+        
         static void Main(string[] args)
         {
             //instancia as classes
-            Soma n1 = new Soma();
-            Subtraçao n2 = new Subtraçao();
-            Multiplicaçao n3 = new Multiplicaçao();
-            Divisao n4 = new Divisao();
+            Calculadora calc = new Calculadora();
 
             //atribui variaveis
             //variaveis do tipo float
-            var num = 0.0;
-            var num_1 = 0.0;
-            var returno = 0.0;
-            // variaveis do tipo string
-            var opcao = "";
             
-            string verifica ;
+            
+            
             //variaveis do tipo booleano
-            bool opcao_veri;
-            bool vell;
+            
             //le o primeiro numero
             Console.WriteLine("Digite o primeiro numero");
-            verifica = Console.ReadLine();
+            calc.verifica = Console.ReadLine();
             //chama o metodo verificaçao de espaço em branco
-            num = Verifica(verifica);
+            calc.numero_1= Verifica(calc.verifica);
            //le o segundo numero
             Console.WriteLine("Digite o segundo numero");
-            verifica = Console.ReadLine();
+            calc.verifica = Console.ReadLine();
             //chama o metodo verificaçao de espaço em branco
-            num_1 = Verifica(verifica);
+            calc.numero_2 = Verifica(calc.verifica);
 
 
 
             Console.WriteLine("digite o operador \n + para soma \n - para subtraçao \n * multiplicaçao \n / divisao");
              // opcao_verifica = Console.ReadLine();
-            opcao += Console.ReadKey(true).Key;
-             // opcao = Verifica_Caracter(opcao_verifica);
-           
-        
+            calc.opcao += Console.ReadKey(true).Key;
+            // opcao = Verifica_Caracter(opcao_verifica);
 
-            if (opcao == "+")
+
+
+            if (calc.opcao == "+")
             {
                 Console.WriteLine("Resultado da soma");
-                Console.WriteLine(n1.soma(num, num_1));
+                Console.WriteLine(calc.soma(calc.numero_1,calc.numero_2));
             }
-
+           
            /* else
             {
                 Console.WriteLine(n2.subtraçao(num, num_1));

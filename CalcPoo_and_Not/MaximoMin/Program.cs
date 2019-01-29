@@ -4,7 +4,7 @@ namespace CalculatorApplication
 {
     class NumberManipulator
     {
-        public double FindMax(int num1, int num2)
+        static public double FindMax(int num1, int num2)
         {
             /* local variable declaration */
             int result;
@@ -25,10 +25,11 @@ namespace CalculatorApplication
             int a = 100;
             int b = 200;
             int ret;
+
             NumberManipulator n = new NumberManipulator();
 
             //calling the FindMax method
-            ret = n.FindMax(a, b);
+            ret = n.Equals(a, b);
             Console.WriteLine("Max value is : {0}", ret);
             Console.ReadLine();
         }

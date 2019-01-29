@@ -1,0 +1,10 @@
+C:\Users\Samuel Viana\Desktop\curso-cSharp\CalcPoo_and_Not\Static_Circunferencia\bin\Debug\netcoreapp2.1\Static_Circunferencia.deps.json
+C:\Users\Samuel Viana\Desktop\curso-cSharp\CalcPoo_and_Not\Static_Circunferencia\bin\Debug\netcoreapp2.1\Static_Circunferencia.runtimeconfig.json
+C:\Users\Samuel Viana\Desktop\curso-cSharp\CalcPoo_and_Not\Static_Circunferencia\bin\Debug\netcoreapp2.1\Static_Circunferencia.runtimeconfig.dev.json
+C:\Users\Samuel Viana\Desktop\curso-cSharp\CalcPoo_and_Not\Static_Circunferencia\bin\Debug\netcoreapp2.1\Static_Circunferencia.dll
+C:\Users\Samuel Viana\Desktop\curso-cSharp\CalcPoo_and_Not\Static_Circunferencia\bin\Debug\netcoreapp2.1\Static_Circunferencia.pdb
+C:\Users\Samuel Viana\Desktop\curso-cSharp\CalcPoo_and_Not\Static_Circunferencia\obj\Debug\netcoreapp2.1\Static_Circunferencia.csproj.CoreCompileInputs.cache
+C:\Users\Samuel Viana\Desktop\curso-cSharp\CalcPoo_and_Not\Static_Circunferencia\obj\Debug\netcoreapp2.1\Static_Circunferencia.AssemblyInfoInputs.cache
+C:\Users\Samuel Viana\Desktop\curso-cSharp\CalcPoo_and_Not\Static_Circunferencia\obj\Debug\netcoreapp2.1\Static_Circunferencia.AssemblyInfo.cs
+C:\Users\Samuel Viana\Desktop\curso-cSharp\CalcPoo_and_Not\Static_Circunferencia\obj\Debug\netcoreapp2.1\Static_Circunferencia.dll
+C:\Users\Samuel Viana\Desktop\curso-cSharp\CalcPoo_and_Not\Static_Circunferencia\obj\Debug\netcoreapp2.1\Static_Circunferencia.pdb

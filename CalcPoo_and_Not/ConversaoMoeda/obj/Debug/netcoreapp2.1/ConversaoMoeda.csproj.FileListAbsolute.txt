@@ -1,0 +1,11 @@
+C:\Users\Samuel Viana\Desktop\curso-cSharp\CalcPoo_and_Not\ConversaoMoeda\bin\Debug\netcoreapp2.1\ConversaoMoeda.deps.json
+C:\Users\Samuel Viana\Desktop\curso-cSharp\CalcPoo_and_Not\ConversaoMoeda\bin\Debug\netcoreapp2.1\ConversaoMoeda.runtimeconfig.json
+C:\Users\Samuel Viana\Desktop\curso-cSharp\CalcPoo_and_Not\ConversaoMoeda\bin\Debug\netcoreapp2.1\ConversaoMoeda.runtimeconfig.dev.json
+C:\Users\Samuel Viana\Desktop\curso-cSharp\CalcPoo_and_Not\ConversaoMoeda\bin\Debug\netcoreapp2.1\ConversaoMoeda.dll
+C:\Users\Samuel Viana\Desktop\curso-cSharp\CalcPoo_and_Not\ConversaoMoeda\bin\Debug\netcoreapp2.1\ConversaoMoeda.pdb
+C:\Users\Samuel Viana\Desktop\curso-cSharp\CalcPoo_and_Not\ConversaoMoeda\obj\Debug\netcoreapp2.1\ConversaoMoeda.csprojAssemblyReference.cache
+C:\Users\Samuel Viana\Desktop\curso-cSharp\CalcPoo_and_Not\ConversaoMoeda\obj\Debug\netcoreapp2.1\ConversaoMoeda.csproj.CoreCompileInputs.cache
+C:\Users\Samuel Viana\Desktop\curso-cSharp\CalcPoo_and_Not\ConversaoMoeda\obj\Debug\netcoreapp2.1\ConversaoMoeda.AssemblyInfoInputs.cache
+C:\Users\Samuel Viana\Desktop\curso-cSharp\CalcPoo_and_Not\ConversaoMoeda\obj\Debug\netcoreapp2.1\ConversaoMoeda.AssemblyInfo.cs
+C:\Users\Samuel Viana\Desktop\curso-cSharp\CalcPoo_and_Not\ConversaoMoeda\obj\Debug\netcoreapp2.1\ConversaoMoeda.dll
+C:\Users\Samuel Viana\Desktop\curso-cSharp\CalcPoo_and_Not\ConversaoMoeda\obj\Debug\netcoreapp2.1\ConversaoMoeda.pdb

@@ -1,0 +1,10 @@
+C:\Users\Samuel Viana\Desktop\curso-cSharp\CalcPoo_and_Not\Calc_Static\bin\Debug\netcoreapp2.1\Calc_Static.deps.json
+C:\Users\Samuel Viana\Desktop\curso-cSharp\CalcPoo_and_Not\Calc_Static\bin\Debug\netcoreapp2.1\Calc_Static.runtimeconfig.json
+C:\Users\Samuel Viana\Desktop\curso-cSharp\CalcPoo_and_Not\Calc_Static\bin\Debug\netcoreapp2.1\Calc_Static.runtimeconfig.dev.json
+C:\Users\Samuel Viana\Desktop\curso-cSharp\CalcPoo_and_Not\Calc_Static\bin\Debug\netcoreapp2.1\Calc_Static.dll
+C:\Users\Samuel Viana\Desktop\curso-cSharp\CalcPoo_and_Not\Calc_Static\bin\Debug\netcoreapp2.1\Calc_Static.pdb
+C:\Users\Samuel Viana\Desktop\curso-cSharp\CalcPoo_and_Not\Calc_Static\obj\Debug\netcoreapp2.1\Calc_Static.csproj.CoreCompileInputs.cache
+C:\Users\Samuel Viana\Desktop\curso-cSharp\CalcPoo_and_Not\Calc_Static\obj\Debug\netcoreapp2.1\Calc_Static.AssemblyInfoInputs.cache
+C:\Users\Samuel Viana\Desktop\curso-cSharp\CalcPoo_and_Not\Calc_Static\obj\Debug\netcoreapp2.1\Calc_Static.AssemblyInfo.cs
+C:\Users\Samuel Viana\Desktop\curso-cSharp\CalcPoo_and_Not\Calc_Static\obj\Debug\netcoreapp2.1\Calc_Static.dll
+C:\Users\Samuel Viana\Desktop\curso-cSharp\CalcPoo_and_Not\Calc_Static\obj\Debug\netcoreapp2.1\Calc_Static.pdb
