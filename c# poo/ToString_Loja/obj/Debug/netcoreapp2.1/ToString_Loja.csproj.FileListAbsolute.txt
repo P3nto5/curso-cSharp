@@ -1,0 +1,10 @@
+C:\Users\Samuel Viana\Desktop\curso-cSharp\c# poo\ToString_Loja\bin\Debug\netcoreapp2.1\ToString_Loja.deps.json
+C:\Users\Samuel Viana\Desktop\curso-cSharp\c# poo\ToString_Loja\bin\Debug\netcoreapp2.1\ToString_Loja.runtimeconfig.json
+C:\Users\Samuel Viana\Desktop\curso-cSharp\c# poo\ToString_Loja\bin\Debug\netcoreapp2.1\ToString_Loja.runtimeconfig.dev.json
+C:\Users\Samuel Viana\Desktop\curso-cSharp\c# poo\ToString_Loja\bin\Debug\netcoreapp2.1\ToString_Loja.dll
+C:\Users\Samuel Viana\Desktop\curso-cSharp\c# poo\ToString_Loja\bin\Debug\netcoreapp2.1\ToString_Loja.pdb
+C:\Users\Samuel Viana\Desktop\curso-cSharp\c# poo\ToString_Loja\obj\Debug\netcoreapp2.1\ToString_Loja.csproj.CoreCompileInputs.cache
+C:\Users\Samuel Viana\Desktop\curso-cSharp\c# poo\ToString_Loja\obj\Debug\netcoreapp2.1\ToString_Loja.AssemblyInfoInputs.cache
+C:\Users\Samuel Viana\Desktop\curso-cSharp\c# poo\ToString_Loja\obj\Debug\netcoreapp2.1\ToString_Loja.AssemblyInfo.cs
+C:\Users\Samuel Viana\Desktop\curso-cSharp\c# poo\ToString_Loja\obj\Debug\netcoreapp2.1\ToString_Loja.dll
+C:\Users\Samuel Viana\Desktop\curso-cSharp\c# poo\ToString_Loja\obj\Debug\netcoreapp2.1\ToString_Loja.pdb

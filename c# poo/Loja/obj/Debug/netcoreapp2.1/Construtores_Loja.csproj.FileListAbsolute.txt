@@ -1,0 +1,11 @@
+C:\Users\Samuel Viana\Desktop\curso-cSharp\c# poo\Loja\bin\Debug\netcoreapp2.1\Construtores_Loja.deps.json
+C:\Users\Samuel Viana\Desktop\curso-cSharp\c# poo\Loja\bin\Debug\netcoreapp2.1\Construtores_Loja.runtimeconfig.json
+C:\Users\Samuel Viana\Desktop\curso-cSharp\c# poo\Loja\bin\Debug\netcoreapp2.1\Construtores_Loja.runtimeconfig.dev.json
+C:\Users\Samuel Viana\Desktop\curso-cSharp\c# poo\Loja\bin\Debug\netcoreapp2.1\Construtores_Loja.dll
+C:\Users\Samuel Viana\Desktop\curso-cSharp\c# poo\Loja\bin\Debug\netcoreapp2.1\Construtores_Loja.pdb
+C:\Users\Samuel Viana\Desktop\curso-cSharp\c# poo\Loja\obj\Debug\netcoreapp2.1\Construtores_Loja.csproj.CoreCompileInputs.cache
+C:\Users\Samuel Viana\Desktop\curso-cSharp\c# poo\Loja\obj\Debug\netcoreapp2.1\Construtores_Loja.AssemblyInfoInputs.cache
+C:\Users\Samuel Viana\Desktop\curso-cSharp\c# poo\Loja\obj\Debug\netcoreapp2.1\Construtores_Loja.AssemblyInfo.cs
+C:\Users\Samuel Viana\Desktop\curso-cSharp\c# poo\Loja\obj\Debug\netcoreapp2.1\Construtores_Loja.dll
+C:\Users\Samuel Viana\Desktop\curso-cSharp\c# poo\Loja\obj\Debug\netcoreapp2.1\Construtores_Loja.pdb
+C:\Users\Samuel Viana\Desktop\curso-cSharp\c# poo\Loja\obj\Debug\netcoreapp2.1\Construtores_Loja.csprojAssemblyReference.cache

@@ -1,0 +1,11 @@
+C:\Users\Samuel Viana\Desktop\curso-cSharp\c# poo\Construtores_Encapsula\bin\Debug\netcoreapp2.1\Construtores_Encapsula.deps.json
+C:\Users\Samuel Viana\Desktop\curso-cSharp\c# poo\Construtores_Encapsula\bin\Debug\netcoreapp2.1\Construtores_Encapsula.runtimeconfig.json
+C:\Users\Samuel Viana\Desktop\curso-cSharp\c# poo\Construtores_Encapsula\bin\Debug\netcoreapp2.1\Construtores_Encapsula.runtimeconfig.dev.json
+C:\Users\Samuel Viana\Desktop\curso-cSharp\c# poo\Construtores_Encapsula\bin\Debug\netcoreapp2.1\Construtores_Encapsula.dll
+C:\Users\Samuel Viana\Desktop\curso-cSharp\c# poo\Construtores_Encapsula\bin\Debug\netcoreapp2.1\Construtores_Encapsula.pdb
+C:\Users\Samuel Viana\Desktop\curso-cSharp\c# poo\Construtores_Encapsula\obj\Debug\netcoreapp2.1\Construtores_Encapsula.csproj.CoreCompileInputs.cache
+C:\Users\Samuel Viana\Desktop\curso-cSharp\c# poo\Construtores_Encapsula\obj\Debug\netcoreapp2.1\Construtores_Encapsula.AssemblyInfoInputs.cache
+C:\Users\Samuel Viana\Desktop\curso-cSharp\c# poo\Construtores_Encapsula\obj\Debug\netcoreapp2.1\Construtores_Encapsula.AssemblyInfo.cs
+C:\Users\Samuel Viana\Desktop\curso-cSharp\c# poo\Construtores_Encapsula\obj\Debug\netcoreapp2.1\Construtores_Encapsula.dll
+C:\Users\Samuel Viana\Desktop\curso-cSharp\c# poo\Construtores_Encapsula\obj\Debug\netcoreapp2.1\Construtores_Encapsula.pdb
+C:\Users\Samuel Viana\Desktop\curso-cSharp\c# poo\Construtores_Encapsula\obj\Debug\netcoreapp2.1\Construtores_Encapsula.csprojAssemblyReference.cache

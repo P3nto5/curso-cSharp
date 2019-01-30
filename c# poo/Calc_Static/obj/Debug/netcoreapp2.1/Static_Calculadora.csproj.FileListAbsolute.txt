@@ -1,0 +1,11 @@
+C:\Users\Samuel Viana\Desktop\curso-cSharp\c# poo\Calc_Static\bin\Debug\netcoreapp2.1\Static_Calculadora.deps.json
+C:\Users\Samuel Viana\Desktop\curso-cSharp\c# poo\Calc_Static\bin\Debug\netcoreapp2.1\Static_Calculadora.runtimeconfig.json
+C:\Users\Samuel Viana\Desktop\curso-cSharp\c# poo\Calc_Static\bin\Debug\netcoreapp2.1\Static_Calculadora.runtimeconfig.dev.json
+C:\Users\Samuel Viana\Desktop\curso-cSharp\c# poo\Calc_Static\bin\Debug\netcoreapp2.1\Static_Calculadora.dll
+C:\Users\Samuel Viana\Desktop\curso-cSharp\c# poo\Calc_Static\bin\Debug\netcoreapp2.1\Static_Calculadora.pdb
+C:\Users\Samuel Viana\Desktop\curso-cSharp\c# poo\Calc_Static\obj\Debug\netcoreapp2.1\Static_Calculadora.csprojAssemblyReference.cache
+C:\Users\Samuel Viana\Desktop\curso-cSharp\c# poo\Calc_Static\obj\Debug\netcoreapp2.1\Static_Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\Samuel Viana\Desktop\curso-cSharp\c# poo\Calc_Static\obj\Debug\netcoreapp2.1\Static_Calculadora.AssemblyInfoInputs.cache
+C:\Users\Samuel Viana\Desktop\curso-cSharp\c# poo\Calc_Static\obj\Debug\netcoreapp2.1\Static_Calculadora.AssemblyInfo.cs
+C:\Users\Samuel Viana\Desktop\curso-cSharp\c# poo\Calc_Static\obj\Debug\netcoreapp2.1\Static_Calculadora.dll
+C:\Users\Samuel Viana\Desktop\curso-cSharp\c# poo\Calc_Static\obj\Debug\netcoreapp2.1\Static_Calculadora.pdb

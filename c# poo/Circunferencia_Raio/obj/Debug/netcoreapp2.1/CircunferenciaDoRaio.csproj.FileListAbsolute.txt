@@ -1,0 +1,11 @@
+C:\Users\Samuel Viana\Desktop\curso-cSharp\c# poo\Circunferencia_Raio\bin\Debug\netcoreapp2.1\CircunferenciaDoRaio.deps.json
+C:\Users\Samuel Viana\Desktop\curso-cSharp\c# poo\Circunferencia_Raio\bin\Debug\netcoreapp2.1\CircunferenciaDoRaio.runtimeconfig.json
+C:\Users\Samuel Viana\Desktop\curso-cSharp\c# poo\Circunferencia_Raio\bin\Debug\netcoreapp2.1\CircunferenciaDoRaio.runtimeconfig.dev.json
+C:\Users\Samuel Viana\Desktop\curso-cSharp\c# poo\Circunferencia_Raio\bin\Debug\netcoreapp2.1\CircunferenciaDoRaio.dll
+C:\Users\Samuel Viana\Desktop\curso-cSharp\c# poo\Circunferencia_Raio\bin\Debug\netcoreapp2.1\CircunferenciaDoRaio.pdb
+C:\Users\Samuel Viana\Desktop\curso-cSharp\c# poo\Circunferencia_Raio\obj\Debug\netcoreapp2.1\CircunferenciaDoRaio.csprojAssemblyReference.cache
+C:\Users\Samuel Viana\Desktop\curso-cSharp\c# poo\Circunferencia_Raio\obj\Debug\netcoreapp2.1\CircunferenciaDoRaio.csproj.CoreCompileInputs.cache
+C:\Users\Samuel Viana\Desktop\curso-cSharp\c# poo\Circunferencia_Raio\obj\Debug\netcoreapp2.1\CircunferenciaDoRaio.AssemblyInfoInputs.cache
+C:\Users\Samuel Viana\Desktop\curso-cSharp\c# poo\Circunferencia_Raio\obj\Debug\netcoreapp2.1\CircunferenciaDoRaio.AssemblyInfo.cs
+C:\Users\Samuel Viana\Desktop\curso-cSharp\c# poo\Circunferencia_Raio\obj\Debug\netcoreapp2.1\CircunferenciaDoRaio.dll
+C:\Users\Samuel Viana\Desktop\curso-cSharp\c# poo\Circunferencia_Raio\obj\Debug\netcoreapp2.1\CircunferenciaDoRaio.pdb

@@ -1,0 +1,11 @@
+C:\Users\Samuel Viana\Desktop\curso-cSharp\c# poo\Triangulo\bin\Debug\netcoreapp2.1\ToString_Triangulo.deps.json
+C:\Users\Samuel Viana\Desktop\curso-cSharp\c# poo\Triangulo\bin\Debug\netcoreapp2.1\ToString_Triangulo.runtimeconfig.json
+C:\Users\Samuel Viana\Desktop\curso-cSharp\c# poo\Triangulo\bin\Debug\netcoreapp2.1\ToString_Triangulo.runtimeconfig.dev.json
+C:\Users\Samuel Viana\Desktop\curso-cSharp\c# poo\Triangulo\bin\Debug\netcoreapp2.1\ToString_Triangulo.dll
+C:\Users\Samuel Viana\Desktop\curso-cSharp\c# poo\Triangulo\bin\Debug\netcoreapp2.1\ToString_Triangulo.pdb
+C:\Users\Samuel Viana\Desktop\curso-cSharp\c# poo\Triangulo\obj\Debug\netcoreapp2.1\ToString_Triangulo.csprojAssemblyReference.cache
+C:\Users\Samuel Viana\Desktop\curso-cSharp\c# poo\Triangulo\obj\Debug\netcoreapp2.1\ToString_Triangulo.csproj.CoreCompileInputs.cache
+C:\Users\Samuel Viana\Desktop\curso-cSharp\c# poo\Triangulo\obj\Debug\netcoreapp2.1\ToString_Triangulo.AssemblyInfoInputs.cache
+C:\Users\Samuel Viana\Desktop\curso-cSharp\c# poo\Triangulo\obj\Debug\netcoreapp2.1\ToString_Triangulo.AssemblyInfo.cs
+C:\Users\Samuel Viana\Desktop\curso-cSharp\c# poo\Triangulo\obj\Debug\netcoreapp2.1\ToString_Triangulo.dll
+C:\Users\Samuel Viana\Desktop\curso-cSharp\c# poo\Triangulo\obj\Debug\netcoreapp2.1\ToString_Triangulo.pdb

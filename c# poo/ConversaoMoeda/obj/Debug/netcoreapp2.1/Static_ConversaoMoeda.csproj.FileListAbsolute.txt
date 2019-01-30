@@ -9,3 +9,14 @@ C:\Users\Samuel Viana\Desktop\curso-cSharp\CalcPoo_and_Not\ConversaoMoeda\obj\De
 C:\Users\Samuel Viana\Desktop\curso-cSharp\CalcPoo_and_Not\ConversaoMoeda\obj\Debug\netcoreapp2.1\Static_ConversaoMoeda.AssemblyInfo.cs
 C:\Users\Samuel Viana\Desktop\curso-cSharp\CalcPoo_and_Not\ConversaoMoeda\obj\Debug\netcoreapp2.1\Static_ConversaoMoeda.dll
 C:\Users\Samuel Viana\Desktop\curso-cSharp\CalcPoo_and_Not\ConversaoMoeda\obj\Debug\netcoreapp2.1\Static_ConversaoMoeda.pdb
+C:\Users\Samuel Viana\Desktop\curso-cSharp\c# poo\ConversaoMoeda\bin\Debug\netcoreapp2.1\Static_ConversaoMoeda.deps.json
+C:\Users\Samuel Viana\Desktop\curso-cSharp\c# poo\ConversaoMoeda\bin\Debug\netcoreapp2.1\Static_ConversaoMoeda.runtimeconfig.json
+C:\Users\Samuel Viana\Desktop\curso-cSharp\c# poo\ConversaoMoeda\bin\Debug\netcoreapp2.1\Static_ConversaoMoeda.runtimeconfig.dev.json
+C:\Users\Samuel Viana\Desktop\curso-cSharp\c# poo\ConversaoMoeda\bin\Debug\netcoreapp2.1\Static_ConversaoMoeda.dll
+C:\Users\Samuel Viana\Desktop\curso-cSharp\c# poo\ConversaoMoeda\bin\Debug\netcoreapp2.1\Static_ConversaoMoeda.pdb
+C:\Users\Samuel Viana\Desktop\curso-cSharp\c# poo\ConversaoMoeda\obj\Debug\netcoreapp2.1\Static_ConversaoMoeda.csprojAssemblyReference.cache
+C:\Users\Samuel Viana\Desktop\curso-cSharp\c# poo\ConversaoMoeda\obj\Debug\netcoreapp2.1\Static_ConversaoMoeda.csproj.CoreCompileInputs.cache
+C:\Users\Samuel Viana\Desktop\curso-cSharp\c# poo\ConversaoMoeda\obj\Debug\netcoreapp2.1\Static_ConversaoMoeda.AssemblyInfoInputs.cache
+C:\Users\Samuel Viana\Desktop\curso-cSharp\c# poo\ConversaoMoeda\obj\Debug\netcoreapp2.1\Static_ConversaoMoeda.AssemblyInfo.cs
+C:\Users\Samuel Viana\Desktop\curso-cSharp\c# poo\ConversaoMoeda\obj\Debug\netcoreapp2.1\Static_ConversaoMoeda.dll
+C:\Users\Samuel Viana\Desktop\curso-cSharp\c# poo\ConversaoMoeda\obj\Debug\netcoreapp2.1\Static_ConversaoMoeda.pdb

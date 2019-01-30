@@ -9,3 +9,14 @@ C:\Users\Samuel Viana\Desktop\cSharp\CalcPoo_and_Not\Validador_Character\obj\Deb
 C:\Users\Samuel Viana\Desktop\cSharp\CalcPoo_and_Not\Validador_Character\obj\Debug\netcoreapp2.1\Validador_Character.AssemblyInfo.cs
 C:\Users\Samuel Viana\Desktop\cSharp\CalcPoo_and_Not\Validador_Character\obj\Debug\netcoreapp2.1\Validador_Character.dll
 C:\Users\Samuel Viana\Desktop\cSharp\CalcPoo_and_Not\Validador_Character\obj\Debug\netcoreapp2.1\Validador_Character.pdb
+C:\Users\Samuel Viana\Desktop\curso-cSharp\c# poo\Validador_Character\bin\Debug\netcoreapp2.1\Validador_Character.deps.json
+C:\Users\Samuel Viana\Desktop\curso-cSharp\c# poo\Validador_Character\bin\Debug\netcoreapp2.1\Validador_Character.runtimeconfig.json
+C:\Users\Samuel Viana\Desktop\curso-cSharp\c# poo\Validador_Character\bin\Debug\netcoreapp2.1\Validador_Character.runtimeconfig.dev.json
+C:\Users\Samuel Viana\Desktop\curso-cSharp\c# poo\Validador_Character\bin\Debug\netcoreapp2.1\Validador_Character.dll
+C:\Users\Samuel Viana\Desktop\curso-cSharp\c# poo\Validador_Character\bin\Debug\netcoreapp2.1\Validador_Character.pdb
+C:\Users\Samuel Viana\Desktop\curso-cSharp\c# poo\Validador_Character\obj\Debug\netcoreapp2.1\Validador_Character.csprojAssemblyReference.cache
+C:\Users\Samuel Viana\Desktop\curso-cSharp\c# poo\Validador_Character\obj\Debug\netcoreapp2.1\Validador_Character.csproj.CoreCompileInputs.cache
+C:\Users\Samuel Viana\Desktop\curso-cSharp\c# poo\Validador_Character\obj\Debug\netcoreapp2.1\Validador_Character.AssemblyInfoInputs.cache
+C:\Users\Samuel Viana\Desktop\curso-cSharp\c# poo\Validador_Character\obj\Debug\netcoreapp2.1\Validador_Character.AssemblyInfo.cs
+C:\Users\Samuel Viana\Desktop\curso-cSharp\c# poo\Validador_Character\obj\Debug\netcoreapp2.1\Validador_Character.dll
+C:\Users\Samuel Viana\Desktop\curso-cSharp\c# poo\Validador_Character\obj\Debug\netcoreapp2.1\Validador_Character.pdb

@@ -1,0 +1,10 @@
+C:\Users\Samuel Viana\Desktop\curso-cSharp\c# poo\Construtores_AutoProprieties\bin\Debug\netcoreapp2.1\Construtores_AutoProprieties.deps.json
+C:\Users\Samuel Viana\Desktop\curso-cSharp\c# poo\Construtores_AutoProprieties\bin\Debug\netcoreapp2.1\Construtores_AutoProprieties.runtimeconfig.json
+C:\Users\Samuel Viana\Desktop\curso-cSharp\c# poo\Construtores_AutoProprieties\bin\Debug\netcoreapp2.1\Construtores_AutoProprieties.runtimeconfig.dev.json
+C:\Users\Samuel Viana\Desktop\curso-cSharp\c# poo\Construtores_AutoProprieties\bin\Debug\netcoreapp2.1\Construtores_AutoProprieties.dll
+C:\Users\Samuel Viana\Desktop\curso-cSharp\c# poo\Construtores_AutoProprieties\bin\Debug\netcoreapp2.1\Construtores_AutoProprieties.pdb
+C:\Users\Samuel Viana\Desktop\curso-cSharp\c# poo\Construtores_AutoProprieties\obj\Debug\netcoreapp2.1\Construtores_AutoProprieties.csproj.CoreCompileInputs.cache
+C:\Users\Samuel Viana\Desktop\curso-cSharp\c# poo\Construtores_AutoProprieties\obj\Debug\netcoreapp2.1\Construtores_AutoProprieties.AssemblyInfoInputs.cache
+C:\Users\Samuel Viana\Desktop\curso-cSharp\c# poo\Construtores_AutoProprieties\obj\Debug\netcoreapp2.1\Construtores_AutoProprieties.AssemblyInfo.cs
+C:\Users\Samuel Viana\Desktop\curso-cSharp\c# poo\Construtores_AutoProprieties\obj\Debug\netcoreapp2.1\Construtores_AutoProprieties.dll
+C:\Users\Samuel Viana\Desktop\curso-cSharp\c# poo\Construtores_AutoProprieties\obj\Debug\netcoreapp2.1\Construtores_AutoProprieties.pdb

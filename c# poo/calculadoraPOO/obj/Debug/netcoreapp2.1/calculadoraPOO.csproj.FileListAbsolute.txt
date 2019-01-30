@@ -20,3 +20,14 @@ C:\Users\Samuel Viana\Desktop\cSharp\CalcPoo_and_Not\calculadoraPOO\obj\Debug\ne
 C:\Users\Samuel Viana\Desktop\cSharp\CalcPoo_and_Not\calculadoraPOO\obj\Debug\netcoreapp2.1\calculadoraPOO.AssemblyInfo.cs
 C:\Users\Samuel Viana\Desktop\cSharp\CalcPoo_and_Not\calculadoraPOO\obj\Debug\netcoreapp2.1\calculadoraPOO.dll
 C:\Users\Samuel Viana\Desktop\cSharp\CalcPoo_and_Not\calculadoraPOO\obj\Debug\netcoreapp2.1\calculadoraPOO.pdb
+C:\Users\Samuel Viana\Desktop\curso-cSharp\c# poo\calculadoraPOO\bin\Debug\netcoreapp2.1\calculadoraPOO.deps.json
+C:\Users\Samuel Viana\Desktop\curso-cSharp\c# poo\calculadoraPOO\bin\Debug\netcoreapp2.1\calculadoraPOO.runtimeconfig.json
+C:\Users\Samuel Viana\Desktop\curso-cSharp\c# poo\calculadoraPOO\bin\Debug\netcoreapp2.1\calculadoraPOO.runtimeconfig.dev.json
+C:\Users\Samuel Viana\Desktop\curso-cSharp\c# poo\calculadoraPOO\bin\Debug\netcoreapp2.1\calculadoraPOO.dll
+C:\Users\Samuel Viana\Desktop\curso-cSharp\c# poo\calculadoraPOO\bin\Debug\netcoreapp2.1\calculadoraPOO.pdb
+C:\Users\Samuel Viana\Desktop\curso-cSharp\c# poo\calculadoraPOO\obj\Debug\netcoreapp2.1\calculadoraPOO.csprojAssemblyReference.cache
+C:\Users\Samuel Viana\Desktop\curso-cSharp\c# poo\calculadoraPOO\obj\Debug\netcoreapp2.1\calculadoraPOO.csproj.CoreCompileInputs.cache
+C:\Users\Samuel Viana\Desktop\curso-cSharp\c# poo\calculadoraPOO\obj\Debug\netcoreapp2.1\calculadoraPOO.AssemblyInfoInputs.cache
+C:\Users\Samuel Viana\Desktop\curso-cSharp\c# poo\calculadoraPOO\obj\Debug\netcoreapp2.1\calculadoraPOO.AssemblyInfo.cs
+C:\Users\Samuel Viana\Desktop\curso-cSharp\c# poo\calculadoraPOO\obj\Debug\netcoreapp2.1\calculadoraPOO.dll
+C:\Users\Samuel Viana\Desktop\curso-cSharp\c# poo\calculadoraPOO\obj\Debug\netcoreapp2.1\calculadoraPOO.pdb

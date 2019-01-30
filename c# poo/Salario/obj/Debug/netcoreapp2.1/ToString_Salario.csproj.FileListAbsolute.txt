@@ -1,0 +1,4 @@
+C:\Users\Samuel Viana\Desktop\curso-cSharp\c# poo\Salario\obj\Debug\netcoreapp2.1\ToString_Salario.csprojAssemblyReference.cache
+C:\Users\Samuel Viana\Desktop\curso-cSharp\c# poo\Salario\obj\Debug\netcoreapp2.1\ToString_Salario.csproj.CoreCompileInputs.cache
+C:\Users\Samuel Viana\Desktop\curso-cSharp\c# poo\Salario\obj\Debug\netcoreapp2.1\ToString_Salario.AssemblyInfoInputs.cache
+C:\Users\Samuel Viana\Desktop\curso-cSharp\c# poo\Salario\obj\Debug\netcoreapp2.1\ToString_Salario.AssemblyInfo.cs

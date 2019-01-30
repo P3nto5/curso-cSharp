@@ -12,3 +12,10 @@ C:\Users\Samuel Viana\Desktop\cSharp\CalcPoo_and_Not\CalculadorApp\obj\Debug\Tab
 C:\Users\Samuel Viana\Desktop\cSharp\CalcPoo_and_Not\CalculadorApp\obj\Debug\TabuadaApp.csproj.CoreCompileInputs.cache
 C:\Users\Samuel Viana\Desktop\cSharp\CalcPoo_and_Not\CalculadorApp\obj\Debug\CalculadorApp.exe
 C:\Users\Samuel Viana\Desktop\cSharp\CalcPoo_and_Not\CalculadorApp\obj\Debug\CalculadorApp.pdb
+C:\Users\Samuel Viana\Desktop\curso-cSharp\c# poo\CalculadorApp\bin\Debug\CalculadorApp.exe.config
+C:\Users\Samuel Viana\Desktop\curso-cSharp\c# poo\CalculadorApp\bin\Debug\CalculadorApp.exe
+C:\Users\Samuel Viana\Desktop\curso-cSharp\c# poo\CalculadorApp\bin\Debug\CalculadorApp.pdb
+C:\Users\Samuel Viana\Desktop\curso-cSharp\c# poo\CalculadorApp\obj\Debug\TabuadaApp.csprojAssemblyReference.cache
+C:\Users\Samuel Viana\Desktop\curso-cSharp\c# poo\CalculadorApp\obj\Debug\TabuadaApp.csproj.CoreCompileInputs.cache
+C:\Users\Samuel Viana\Desktop\curso-cSharp\c# poo\CalculadorApp\obj\Debug\CalculadorApp.exe
+C:\Users\Samuel Viana\Desktop\curso-cSharp\c# poo\CalculadorApp\obj\Debug\CalculadorApp.pdb

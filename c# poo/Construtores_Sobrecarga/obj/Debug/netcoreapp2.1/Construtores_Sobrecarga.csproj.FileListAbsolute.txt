@@ -1,0 +1,10 @@
+C:\Users\Samuel Viana\Desktop\curso-cSharp\c# poo\Construtores_Sobrecarga\obj\Debug\netcoreapp2.1\Construtores_Sobrecarga.csproj.CoreCompileInputs.cache
+C:\Users\Samuel Viana\Desktop\curso-cSharp\c# poo\Construtores_Sobrecarga\obj\Debug\netcoreapp2.1\Construtores_Sobrecarga.AssemblyInfoInputs.cache
+C:\Users\Samuel Viana\Desktop\curso-cSharp\c# poo\Construtores_Sobrecarga\obj\Debug\netcoreapp2.1\Construtores_Sobrecarga.AssemblyInfo.cs
+C:\Users\Samuel Viana\Desktop\curso-cSharp\c# poo\Construtores_Sobrecarga\bin\Debug\netcoreapp2.1\Construtores_Sobrecarga.deps.json
+C:\Users\Samuel Viana\Desktop\curso-cSharp\c# poo\Construtores_Sobrecarga\bin\Debug\netcoreapp2.1\Construtores_Sobrecarga.runtimeconfig.json
+C:\Users\Samuel Viana\Desktop\curso-cSharp\c# poo\Construtores_Sobrecarga\bin\Debug\netcoreapp2.1\Construtores_Sobrecarga.runtimeconfig.dev.json
+C:\Users\Samuel Viana\Desktop\curso-cSharp\c# poo\Construtores_Sobrecarga\bin\Debug\netcoreapp2.1\Construtores_Sobrecarga.dll
+C:\Users\Samuel Viana\Desktop\curso-cSharp\c# poo\Construtores_Sobrecarga\bin\Debug\netcoreapp2.1\Construtores_Sobrecarga.pdb
+C:\Users\Samuel Viana\Desktop\curso-cSharp\c# poo\Construtores_Sobrecarga\obj\Debug\netcoreapp2.1\Construtores_Sobrecarga.dll
+C:\Users\Samuel Viana\Desktop\curso-cSharp\c# poo\Construtores_Sobrecarga\obj\Debug\netcoreapp2.1\Construtores_Sobrecarga.pdb

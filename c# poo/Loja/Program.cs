@@ -1,47 +1,49 @@
 ﻿using System;
+using System.Globalization;
 
 namespace Loja
 {
     class Program
     {
+        static public int Adcionar;
+        static public int Excluir;
+
+
         static void Main(string[] args)
         {
-            Global G = new Global();
 
+             Console.WriteLine("Entre com os dados do produto");
+             Console.Write("Nome: \n");
+             var Nome = Console.ReadLine();
+             Console.Write("Preço: \n");
+             var Preco = double.Parse(Console.ReadLine(),CultureInfo.InvariantCulture);
+             Console.Write("Quantidade: \n");           
+             var Quantidade = int.Parse(Console.ReadLine());
 
-            Console.WriteLine("Entre com os dados do produto");
-            Console.Write("Nome: \n");
-            G.Nome = Console.ReadLine();
-            Console.Write("Preço: \n");
-            G.Preco = double.Parse(Console.ReadLine());
-            Console.Write("Quantidade: \n");
-            G.Quantidade = int.Parse(Console.ReadLine());
+            
+            Global G = new Global(Nome, Preco, Quantidade);
+            
 
             Console.WriteLine();
             Console.WriteLine("Dados do produto "+G);
 
-
             Console.WriteLine();
             Console.WriteLine("Digite o numero de produtos a ser adcionado  ");
-            G.Adcionar = int.Parse(Console.ReadLine());
-            G.AdcionaProduto(G.Adcionar);
+            Adcionar = int.Parse(Console.ReadLine());
+            G.AdcionaProduto(Adcionar);
+
             Console.WriteLine();
             Console.WriteLine("Dados Atualizados "+ G);
 
             Console.WriteLine();
             Console.WriteLine("Digite o numero de produtos a ser excluidos ");
-            G.Excluir = int.Parse(Console.ReadLine());
-            G.ExcluirProduto(G.Excluir);
-            Console.WriteLine();
+            Excluir = int.Parse(Console.ReadLine());
+
+            G.ExcluirProduto(Excluir);            
+            Console.WriteLine();          
             Console.WriteLine("Dados Atualizados " + G);
 
-
-
-
-
-
-
-            Console.ReadKey(true);
+           Console.ReadKey(true);
 
 
         }

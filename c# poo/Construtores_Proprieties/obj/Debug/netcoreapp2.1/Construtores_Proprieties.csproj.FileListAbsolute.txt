@@ -1,0 +1,10 @@
+C:\Users\Samuel Viana\Desktop\curso-cSharp\c# poo\Construtores_Proprieties\bin\Debug\netcoreapp2.1\Construtores_Proprieties.deps.json
+C:\Users\Samuel Viana\Desktop\curso-cSharp\c# poo\Construtores_Proprieties\bin\Debug\netcoreapp2.1\Construtores_Proprieties.runtimeconfig.json
+C:\Users\Samuel Viana\Desktop\curso-cSharp\c# poo\Construtores_Proprieties\bin\Debug\netcoreapp2.1\Construtores_Proprieties.runtimeconfig.dev.json
+C:\Users\Samuel Viana\Desktop\curso-cSharp\c# poo\Construtores_Proprieties\bin\Debug\netcoreapp2.1\Construtores_Proprieties.dll
+C:\Users\Samuel Viana\Desktop\curso-cSharp\c# poo\Construtores_Proprieties\bin\Debug\netcoreapp2.1\Construtores_Proprieties.pdb
+C:\Users\Samuel Viana\Desktop\curso-cSharp\c# poo\Construtores_Proprieties\obj\Debug\netcoreapp2.1\Construtores_Proprieties.csproj.CoreCompileInputs.cache
+C:\Users\Samuel Viana\Desktop\curso-cSharp\c# poo\Construtores_Proprieties\obj\Debug\netcoreapp2.1\Construtores_Proprieties.AssemblyInfoInputs.cache
+C:\Users\Samuel Viana\Desktop\curso-cSharp\c# poo\Construtores_Proprieties\obj\Debug\netcoreapp2.1\Construtores_Proprieties.AssemblyInfo.cs
+C:\Users\Samuel Viana\Desktop\curso-cSharp\c# poo\Construtores_Proprieties\obj\Debug\netcoreapp2.1\Construtores_Proprieties.dll
+C:\Users\Samuel Viana\Desktop\curso-cSharp\c# poo\Construtores_Proprieties\obj\Debug\netcoreapp2.1\Construtores_Proprieties.pdb

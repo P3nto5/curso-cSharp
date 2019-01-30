@@ -13,6 +13,22 @@ namespace Loja
         public int Adcionar;
         public int Excluir;
 
+        public Global(){
+        }
+
+        public Global(string nome, double preco) :this()
+        {
+            Nome = nome;
+            Preco = preco;
+            
+        }
+        public Global(string nome, double preco, int quantidade) :this(nome,preco){
+            
+            Quantidade = quantidade;
+
+        }
+
+
         public Double ValorTotal()
         {
             return Preco * Quantidade;
