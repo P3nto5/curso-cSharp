@@ -51,32 +51,28 @@ namespace Construtores_Banco
 
                         Console.WriteLine("Digite o quanto deseja sacar");
                         double saque = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
-                        conta.Saque(saque);
-                        if (conta.VerificaSaldo(Nquantia) == false)//verifica se o saldo e negativo ou a quantia a ser sacada e menor do que se tem em caixa
-                        {
-                            Console.WriteLine("dados atualizados: \n" + conta);
-                            //dados atualizados
+                        //conta.Saque(saque);
+                        if (conta.VerificaSaldo(saque) == false){//verifica se o saldo e negativo ou a quantia a ser sacada e menor do que se tem em caixa                        {
 
+                            conta.Saque(saque);
                         }
                         else
                         {
                             Console.WriteLine("Saldo insuficiente");
-                            //mensagem do metodo
+                            
                         }
                     }
                     else
                     {
-                        conta = new Global(numero, nome);
-                        //opçao digitada e nao, entao nao foi realizada modificaçoes
-                        Console.WriteLine("Dados finais: " + conta);
+                        Global conta1 = new Global(numero, nome, deposito);
+                        //opçao digitada e nao, entao nao foi realizada modificaçoes                     
+
                     }
                 }
                 else
                 {
-                    conta = new Global(numero, nome);
+                    conta = new Global(numero, nome, deposito);
                     //opçao digitada e nao, entao nao foi realizada modificaçoes
-                    Console.WriteLine("Dados finais: " + conta);
-
                 }
             }
             else

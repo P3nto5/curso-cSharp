@@ -31,7 +31,7 @@ namespace Construtores_Banco
         }
         public bool VerificaSaldo(Double quantia)
         {
-            if ( quantia<Saldo)
+            if ( quantia>Saldo)
             {
                 return true;
             }
