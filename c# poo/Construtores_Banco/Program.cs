@@ -39,7 +39,7 @@ namespace Construtores_Banco
                 //segunda verificaçao se deseja depositar novamente
                 if (Opçao_Novo_Deposito == "sim" || Opçao_Novo_Deposito =="Sim" )
                 {
-                    
+                    Console.WriteLine("Digite o valor a ser depositado ");
                     double Nquantia = double.Parse(Console.ReadLine());
                     //leitura da quantia a ser depositada
                     conta.Deposito(Nquantia);
@@ -49,13 +49,14 @@ namespace Construtores_Banco
                     Console.WriteLine("Dados atualizados: \n" + conta);
                     // atualizando os dados do projeto
                     Console.WriteLine("Digite o quanto deseja sacar");
+                    double saque = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+
                     if (conta.VerificaSaldo(Nquantia) == false)//verifica se o saldo e negativo ou a quantia a ser sacada e menor do que se tem em caixa
                     {                        
                         string Opçao_Saque = Console.ReadLine();//leitura para verificar se ocorrera o sague se caso o mesmo passar 
                         if (Opçao_Saque == "sim" || Opçao_Saque == "Sim")
                         {
-                            conta = new Global(numero, nome, deposito);
-                            double saque = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+                            conta = new Global(numero, nome, deposito);                            
                             //leitura para saber quanto sera sacado
                             conta.Saque(saque);
                             //passando o atributo saque por paramentro para o set do metodo
