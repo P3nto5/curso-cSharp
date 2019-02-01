@@ -37,17 +37,19 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Estruturado", "Estruturado"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Construtores", "Construtores", "{AA07C929-3541-4EE1-B2F0-0448C667C849}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToString_Loja", "ToString_Loja\ToString_Loja.csproj", "{63C8A06C-A25B-4299-9BB6-89B5715FF96B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ToString_Loja", "ToString_Loja\ToString_Loja.csproj", "{63C8A06C-A25B-4299-9BB6-89B5715FF96B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Construtores_Sobrecarga", "Construtores_Sobrecarga\Construtores_Sobrecarga.csproj", "{2FD5CF20-BC77-4B99-902C-20725443DFF1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Construtores_Sobrecarga", "Construtores_Sobrecarga\Construtores_Sobrecarga.csproj", "{2FD5CF20-BC77-4B99-902C-20725443DFF1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Construtores_This", "Construtores_This\Construtores_This.csproj", "{4F3418B4-7ACC-4AC7-ACB3-6AA4557349B9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Construtores_This", "Construtores_This\Construtores_This.csproj", "{4F3418B4-7ACC-4AC7-ACB3-6AA4557349B9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Construtores_Encapsula", "Construtores_Encapsula\Construtores_Encapsula.csproj", "{56BDA5DB-64D9-41B9-808F-98522D13110B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Construtores_Encapsula", "Construtores_Encapsula\Construtores_Encapsula.csproj", "{56BDA5DB-64D9-41B9-808F-98522D13110B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Construtores_Proprieties", "Construtores_Proprieties\Construtores_Proprieties.csproj", "{33D532B1-9E0B-46DF-9ECD-1F051D9D729B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Construtores_Proprieties", "Construtores_Proprieties\Construtores_Proprieties.csproj", "{33D532B1-9E0B-46DF-9ECD-1F051D9D729B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Construtores_AutoProprieties", "Construtores_AutoProprieties\Construtores_AutoProprieties.csproj", "{89078A5B-F031-489E-8AF8-4E1886475134}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Construtores_AutoProprieties", "Construtores_AutoProprieties\Construtores_AutoProprieties.csproj", "{89078A5B-F031-489E-8AF8-4E1886475134}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Construtores_Banco", "Construtores_Banco\Construtores_Banco.csproj", "{DDBF2616-7A14-4EBE-94A9-E18CB8AD62AA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -127,6 +129,10 @@ Global
 		{89078A5B-F031-489E-8AF8-4E1886475134}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{89078A5B-F031-489E-8AF8-4E1886475134}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{89078A5B-F031-489E-8AF8-4E1886475134}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DDBF2616-7A14-4EBE-94A9-E18CB8AD62AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDBF2616-7A14-4EBE-94A9-E18CB8AD62AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDBF2616-7A14-4EBE-94A9-E18CB8AD62AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDBF2616-7A14-4EBE-94A9-E18CB8AD62AA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -150,6 +156,7 @@ Global
 		{56BDA5DB-64D9-41B9-808F-98522D13110B} = {AA07C929-3541-4EE1-B2F0-0448C667C849}
 		{33D532B1-9E0B-46DF-9ECD-1F051D9D729B} = {AA07C929-3541-4EE1-B2F0-0448C667C849}
 		{89078A5B-F031-489E-8AF8-4E1886475134} = {AA07C929-3541-4EE1-B2F0-0448C667C849}
+		{DDBF2616-7A14-4EBE-94A9-E18CB8AD62AA} = {AA07C929-3541-4EE1-B2F0-0448C667C849}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {A2B88844-BAD7-4340-BC95-B69B3448032B}
