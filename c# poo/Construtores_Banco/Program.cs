@@ -45,23 +45,30 @@ namespace Construtores_Banco
                     //instanciando o objeto novamente e quem sabe funcionar
                     Console.WriteLine("Dados atualizados: \n" + conta);
                     // atualizando os dados do projeto
-                    Console.WriteLine("Digite o quanto deseja sacar");
-                    double saque = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+                    Console.WriteLine("Voce deseja sacar ?");
+                    string Opçao_Saque = Console.ReadLine();
+                    if (Opçao_Saque == "sim") {
 
-                    if (conta.VerificaSaldo(Nquantia) == false)//verifica se o saldo e negativo ou a quantia a ser sacada e menor do que se tem em caixa
-                    {
-                                               
-                        //leitura para saber quanto sera sacado
+                        Console.WriteLine("Digite o quanto deseja sacar");
+                        double saque = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
                         conta.Saque(saque);
-                        //passando o atributo saque por paramentro para o set do metodo
-                        Console.WriteLine("dados atualizados: \n" + conta);
-                        //dados atualizados
-                                               
+                        if (conta.VerificaSaldo(Nquantia) == false)//verifica se o saldo e negativo ou a quantia a ser sacada e menor do que se tem em caixa
+                        {
+                            Console.WriteLine("dados atualizados: \n" + conta);
+                            //dados atualizados
+
+                        }
+                        else
+                        {
+                            Console.WriteLine("Saldo insuficiente");
+                            //mensagem do metodo
+                        }
                     }
                     else
                     {
-                        Console.WriteLine("Saldo insuficiente");
-                        //mensagem do metodo
+                        conta = new Global(numero, nome);
+                        //opçao digitada e nao, entao nao foi realizada modificaçoes
+                        Console.WriteLine("Dados finais: " + conta);
                     }
                 }
                 else
@@ -76,13 +83,11 @@ namespace Construtores_Banco
             {
                conta = new Global(numero, nome);
                 //opçao digitada e nao, entao nao foi realizada modificaçoes
-                
-            }
-            
+                Console.WriteLine("Dados finais: " + conta);
+
+            }           
             Console.WriteLine();
             Console.WriteLine("Dados finais: " + conta);
-
-
             Console.ReadKey(true);
         }
     }
