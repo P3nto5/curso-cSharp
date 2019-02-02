@@ -5,3 +5,10 @@ C:\Users\samuel.viana\Desktop\curso-cSharp\c# poo\Construtores_Banco\obj\Debug\C
 C:\Users\samuel.viana\Desktop\curso-cSharp\c# poo\Construtores_Banco\obj\Debug\Construtores_Banco.csproj.CoreCompileInputs.cache
 C:\Users\samuel.viana\Desktop\curso-cSharp\c# poo\Construtores_Banco\obj\Debug\Construtores_Banco.exe
 C:\Users\samuel.viana\Desktop\curso-cSharp\c# poo\Construtores_Banco\obj\Debug\Construtores_Banco.pdb
+C:\Users\Jennifer Hipolito\Desktop\curso-cSharp\c# poo\Construtores_Banco\bin\Debug\Construtores_Banco.exe.config
+C:\Users\Jennifer Hipolito\Desktop\curso-cSharp\c# poo\Construtores_Banco\bin\Debug\Construtores_Banco.exe
+C:\Users\Jennifer Hipolito\Desktop\curso-cSharp\c# poo\Construtores_Banco\bin\Debug\Construtores_Banco.pdb
+C:\Users\Jennifer Hipolito\Desktop\curso-cSharp\c# poo\Construtores_Banco\obj\Debug\Construtores_Banco.csprojAssemblyReference.cache
+C:\Users\Jennifer Hipolito\Desktop\curso-cSharp\c# poo\Construtores_Banco\obj\Debug\Construtores_Banco.csproj.CoreCompileInputs.cache
+C:\Users\Jennifer Hipolito\Desktop\curso-cSharp\c# poo\Construtores_Banco\obj\Debug\Construtores_Banco.exe
+C:\Users\Jennifer Hipolito\Desktop\curso-cSharp\c# poo\Construtores_Banco\obj\Debug\Construtores_Banco.pdb

@@ -688,23 +688,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\samuel.viana\\.nuget\\packages\\": {},
+    "C:\\Users\\Jennifer Hipolito\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\samuel.viana\\Desktop\\curso-cSharp\\c# poo\\Loja\\Construtores_Loja.csproj",
+      "projectUniqueName": "C:\\Users\\Jennifer Hipolito\\Desktop\\curso-cSharp\\c# poo\\Loja\\Construtores_Loja.csproj",
       "projectName": "Construtores_Loja",
-      "projectPath": "C:\\Users\\samuel.viana\\Desktop\\curso-cSharp\\c# poo\\Loja\\Construtores_Loja.csproj",
-      "packagesPath": "C:\\Users\\samuel.viana\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\samuel.viana\\Desktop\\curso-cSharp\\c# poo\\Loja\\obj\\",
+      "projectPath": "C:\\Users\\Jennifer Hipolito\\Desktop\\curso-cSharp\\c# poo\\Loja\\Construtores_Loja.csproj",
+      "packagesPath": "C:\\Users\\Jennifer Hipolito\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Jennifer Hipolito\\Desktop\\curso-cSharp\\c# poo\\Loja\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\samuel.viana\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Jennifer Hipolito\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
