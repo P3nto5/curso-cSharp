@@ -64,51 +64,47 @@ namespace Construtores_Banco
                     }
                     else
                     {
-                        Global conta1 = new Global(numero, nome, deposito);
+                       conta = new Global(numero, nome, deposito);
                         //opçao digitada e nao, entao nao foi realizada modificaçoes                     
 
                     }
                 }
                 else
                 {
-                    Console.WriteLine("Voce deseja sacar ?");
-                    string Opçao_Saque = Console.ReadLine();
-                    if (Opçao_Saque == "sim")
+                    Console.WriteLine("Voce deseja sacar esse deposito ?");
+                    string Opçao_Saque_novamente = Console.ReadLine();
+                    if (Opçao_Saque_novamente == "sim")
                     {
 
                         Console.WriteLine("Digite o quanto deseja sacar: ");
-                        double saque = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+                        double saque_novamente = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
                         //conta.Saque(saque);
-                        if (conta.VerificaSaldo(saque) == false)
+                        if (conta.VerificaSaldo(saque_novamente) == false)
                         {//verifica se o saldo e negativo ou a quantia a ser sacada e menor do que se tem em caixa                        {
 
-                            conta.Saque(saque);
+                            conta.Saque(saque_novamente);                          
+
                         }
                         else
                         {
                             Console.WriteLine("Saldo insuficiente");
 
                         }
+                                                 
                     }
                     else
-                    {
-                        Global conta1 = new Global(numero, nome, deposito);
+                    {                        
+                          conta = new Global(numero, nome, deposito);
                         //opçao digitada e nao, entao nao foi realizada modificaçoes                     
 
-                    }
-                    conta = new Global(numero, nome, deposito);
-                    //opçao digitada e nao, entao nao foi realizada modificaçoes
-
+                    }                    
                 }
             }
             else
             {
                conta = new Global(numero, nome);
                 //opçao digitada e nao, entao nao foi realizada modificaçoes
-                Console.WriteLine("Dados finais: " + conta);
-
-
-
+              
             }           
             Console.WriteLine();
             Console.WriteLine("Dados finais: " + conta);
