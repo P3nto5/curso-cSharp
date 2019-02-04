@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\samuel.viana\\Desktop\\Wpp_Forensic\\curso-cSharp\\c# poo\\MaximoMin\\MaximoMin.csproj",
+      "projectUniqueName": "C:\\Users\\samuel.viana\\Desktop\\curso-cSharp\\c# poo\\MaximoMin\\MaximoMin.csproj",
       "projectName": "MaximoMin",
-      "projectPath": "C:\\Users\\samuel.viana\\Desktop\\Wpp_Forensic\\curso-cSharp\\c# poo\\MaximoMin\\MaximoMin.csproj",
+      "projectPath": "C:\\Users\\samuel.viana\\Desktop\\curso-cSharp\\c# poo\\MaximoMin\\MaximoMin.csproj",
       "packagesPath": "C:\\Users\\samuel.viana\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\samuel.viana\\Desktop\\Wpp_Forensic\\curso-cSharp\\c# poo\\MaximoMin\\obj\\",
+      "outputPath": "C:\\Users\\samuel.viana\\Desktop\\curso-cSharp\\c# poo\\MaximoMin\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

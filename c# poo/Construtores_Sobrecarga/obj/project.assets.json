@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\samuel.viana\\Desktop\\Wpp_Forensic\\curso-cSharp\\c# poo\\Construtores_Sobrecarga\\Construtores_Sobrecarga.csproj",
+      "projectUniqueName": "C:\\Users\\samuel.viana\\Desktop\\curso-cSharp\\c# poo\\Construtores_Sobrecarga\\Construtores_Sobrecarga.csproj",
       "projectName": "Construtores_Sobrecarga",
-      "projectPath": "C:\\Users\\samuel.viana\\Desktop\\Wpp_Forensic\\curso-cSharp\\c# poo\\Construtores_Sobrecarga\\Construtores_Sobrecarga.csproj",
+      "projectPath": "C:\\Users\\samuel.viana\\Desktop\\curso-cSharp\\c# poo\\Construtores_Sobrecarga\\Construtores_Sobrecarga.csproj",
       "packagesPath": "C:\\Users\\samuel.viana\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\samuel.viana\\Desktop\\Wpp_Forensic\\curso-cSharp\\c# poo\\Construtores_Sobrecarga\\obj\\",
+      "outputPath": "C:\\Users\\samuel.viana\\Desktop\\curso-cSharp\\c# poo\\Construtores_Sobrecarga\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\samuel.viana\\Desktop\\Wpp_Forensic\\curso-cSharp\\c# poo\\calculadoraPOO\\calculadoraPOO.csproj",
+      "projectUniqueName": "C:\\Users\\samuel.viana\\Desktop\\curso-cSharp\\c# poo\\calculadoraPOO\\calculadoraPOO.csproj",
       "projectName": "calculadoraPOO",
-      "projectPath": "C:\\Users\\samuel.viana\\Desktop\\Wpp_Forensic\\curso-cSharp\\c# poo\\calculadoraPOO\\calculadoraPOO.csproj",
+      "projectPath": "C:\\Users\\samuel.viana\\Desktop\\curso-cSharp\\c# poo\\calculadoraPOO\\calculadoraPOO.csproj",
       "packagesPath": "C:\\Users\\samuel.viana\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\samuel.viana\\Desktop\\Wpp_Forensic\\curso-cSharp\\c# poo\\calculadoraPOO\\obj\\",
+      "outputPath": "C:\\Users\\samuel.viana\\Desktop\\curso-cSharp\\c# poo\\calculadoraPOO\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

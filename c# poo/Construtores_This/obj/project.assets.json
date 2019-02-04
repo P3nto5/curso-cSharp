@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\samuel.viana\\Desktop\\Wpp_Forensic\\curso-cSharp\\c# poo\\Construtores_This\\Construtores_This.csproj",
+      "projectUniqueName": "C:\\Users\\samuel.viana\\Desktop\\curso-cSharp\\c# poo\\Construtores_This\\Construtores_This.csproj",
       "projectName": "Construtores_This",
-      "projectPath": "C:\\Users\\samuel.viana\\Desktop\\Wpp_Forensic\\curso-cSharp\\c# poo\\Construtores_This\\Construtores_This.csproj",
+      "projectPath": "C:\\Users\\samuel.viana\\Desktop\\curso-cSharp\\c# poo\\Construtores_This\\Construtores_This.csproj",
       "packagesPath": "C:\\Users\\samuel.viana\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\samuel.viana\\Desktop\\Wpp_Forensic\\curso-cSharp\\c# poo\\Construtores_This\\obj\\",
+      "outputPath": "C:\\Users\\samuel.viana\\Desktop\\curso-cSharp\\c# poo\\Construtores_This\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

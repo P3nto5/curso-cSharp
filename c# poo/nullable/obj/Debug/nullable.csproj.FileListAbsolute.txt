@@ -1,0 +1,7 @@
+C:\Users\samuel.viana\Desktop\curso-cSharp\c# poo\nullable\bin\Debug\nullable.exe.config
+C:\Users\samuel.viana\Desktop\curso-cSharp\c# poo\nullable\bin\Debug\nullable.exe
+C:\Users\samuel.viana\Desktop\curso-cSharp\c# poo\nullable\bin\Debug\nullable.pdb
+C:\Users\samuel.viana\Desktop\curso-cSharp\c# poo\nullable\obj\Debug\nullable.csprojAssemblyReference.cache
+C:\Users\samuel.viana\Desktop\curso-cSharp\c# poo\nullable\obj\Debug\nullable.csproj.CoreCompileInputs.cache
+C:\Users\samuel.viana\Desktop\curso-cSharp\c# poo\nullable\obj\Debug\nullable.exe
+C:\Users\samuel.viana\Desktop\curso-cSharp\c# poo\nullable\obj\Debug\nullable.pdb

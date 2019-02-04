@@ -1,0 +1,6 @@
+C:\Users\samuel.viana\Desktop\curso-cSharp\c# poo\Arrays_Listas_Structs\bin\Debug\Arrays_Listas_Structs.exe.config
+C:\Users\samuel.viana\Desktop\curso-cSharp\c# poo\Arrays_Listas_Structs\bin\Debug\Arrays_Listas_Structs.exe
+C:\Users\samuel.viana\Desktop\curso-cSharp\c# poo\Arrays_Listas_Structs\bin\Debug\Arrays_Listas_Structs.pdb
+C:\Users\samuel.viana\Desktop\curso-cSharp\c# poo\Arrays_Listas_Structs\obj\Debug\Structs.csproj.CoreCompileInputs.cache
+C:\Users\samuel.viana\Desktop\curso-cSharp\c# poo\Arrays_Listas_Structs\obj\Debug\Arrays_Listas_Structs.exe
+C:\Users\samuel.viana\Desktop\curso-cSharp\c# poo\Arrays_Listas_Structs\obj\Debug\Arrays_Listas_Structs.pdb
