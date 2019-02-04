@@ -76,7 +76,7 @@ namespace Construtores_Banco
                     if (Opçao_Saque == "sim")
                     {
 
-                        Console.WriteLine("Digite o quanto deseja sacar");
+                        Console.WriteLine("Digite o quanto deseja sacar: ");
                         double saque = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
                         //conta.Saque(saque);
                         if (conta.VerificaSaldo(saque) == false)
