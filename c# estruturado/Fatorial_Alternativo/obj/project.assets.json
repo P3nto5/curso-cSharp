@@ -688,23 +688,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Samuel Viana\\.nuget\\packages\\": {},
+    "C:\\Users\\samuel.viana\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Samuel Viana\\Desktop\\cSharp\\cSharp\\Fatorial_Alternativo\\Fatorial_Alternativo.csproj",
+      "projectUniqueName": "C:\\Users\\samuel.viana\\Desktop\\curso-cSharp\\c# estruturado\\Fatorial_Alternativo\\Fatorial_Alternativo.csproj",
       "projectName": "Fatorial_Alternativo",
-      "projectPath": "C:\\Users\\Samuel Viana\\Desktop\\cSharp\\cSharp\\Fatorial_Alternativo\\Fatorial_Alternativo.csproj",
-      "packagesPath": "C:\\Users\\Samuel Viana\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Samuel Viana\\Desktop\\cSharp\\cSharp\\Fatorial_Alternativo\\obj\\",
+      "projectPath": "C:\\Users\\samuel.viana\\Desktop\\curso-cSharp\\c# estruturado\\Fatorial_Alternativo\\Fatorial_Alternativo.csproj",
+      "packagesPath": "C:\\Users\\samuel.viana\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\samuel.viana\\Desktop\\curso-cSharp\\c# estruturado\\Fatorial_Alternativo\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\Samuel Viana\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\samuel.viana\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

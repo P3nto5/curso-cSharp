@@ -1,0 +1,7 @@
+C:\Users\samuel.viana\Desktop\curso-cSharp\c# poo\Array\bin\Debug\Array.exe.config
+C:\Users\samuel.viana\Desktop\curso-cSharp\c# poo\Array\bin\Debug\Array.exe
+C:\Users\samuel.viana\Desktop\curso-cSharp\c# poo\Array\bin\Debug\Array.pdb
+C:\Users\samuel.viana\Desktop\curso-cSharp\c# poo\Array\obj\Debug\Array.csprojAssemblyReference.cache
+C:\Users\samuel.viana\Desktop\curso-cSharp\c# poo\Array\obj\Debug\Array.csproj.CoreCompileInputs.cache
+C:\Users\samuel.viana\Desktop\curso-cSharp\c# poo\Array\obj\Debug\Array.exe
+C:\Users\samuel.viana\Desktop\curso-cSharp\c# poo\Array\obj\Debug\Array.pdb

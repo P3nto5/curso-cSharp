@@ -1,0 +1,7 @@
+C:\Users\samuel.viana\Desktop\curso-cSharp\c# poo\Primo\bin\Debug\Primo.exe.config
+C:\Users\samuel.viana\Desktop\curso-cSharp\c# poo\Primo\bin\Debug\Primo.exe
+C:\Users\samuel.viana\Desktop\curso-cSharp\c# poo\Primo\bin\Debug\Primo.pdb
+C:\Users\samuel.viana\Desktop\curso-cSharp\c# poo\Primo\obj\Debug\Primo.csproj.CoreCompileInputs.cache
+C:\Users\samuel.viana\Desktop\curso-cSharp\c# poo\Primo\obj\Debug\Primo.exe
+C:\Users\samuel.viana\Desktop\curso-cSharp\c# poo\Primo\obj\Debug\Primo.pdb
+C:\Users\samuel.viana\Desktop\curso-cSharp\c# poo\Primo\obj\Debug\Primo.csprojAssemblyReference.cache
