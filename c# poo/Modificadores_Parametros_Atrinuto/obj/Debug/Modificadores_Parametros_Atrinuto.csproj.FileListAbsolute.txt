@@ -1,0 +1,6 @@
+C:\Users\samuel.viana\Desktop\curso-cSharp\c# poo\Modificadores_Parametros_Atrinuto\bin\Debug\Modificadores_Parametros_Atrinuto.exe.config
+C:\Users\samuel.viana\Desktop\curso-cSharp\c# poo\Modificadores_Parametros_Atrinuto\bin\Debug\Modificadores_Parametros_Atrinuto.exe
+C:\Users\samuel.viana\Desktop\curso-cSharp\c# poo\Modificadores_Parametros_Atrinuto\bin\Debug\Modificadores_Parametros_Atrinuto.pdb
+C:\Users\samuel.viana\Desktop\curso-cSharp\c# poo\Modificadores_Parametros_Atrinuto\obj\Debug\Modificadores_Parametros_Atrinuto.csproj.CoreCompileInputs.cache
+C:\Users\samuel.viana\Desktop\curso-cSharp\c# poo\Modificadores_Parametros_Atrinuto\obj\Debug\Modificadores_Parametros_Atrinuto.exe
+C:\Users\samuel.viana\Desktop\curso-cSharp\c# poo\Modificadores_Parametros_Atrinuto\obj\Debug\Modificadores_Parametros_Atrinuto.pdb
