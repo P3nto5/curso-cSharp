@@ -1,0 +1,7 @@
+C:\Users\samuel.viana\Desktop\curso-cSharp\c# poo\exampledeParamentoToArrar\bin\Debug\exampledeParamentoToArrar.exe.config
+C:\Users\samuel.viana\Desktop\curso-cSharp\c# poo\exampledeParamentoToArrar\bin\Debug\exampledeParamentoToArrar.exe
+C:\Users\samuel.viana\Desktop\curso-cSharp\c# poo\exampledeParamentoToArrar\bin\Debug\exampledeParamentoToArrar.pdb
+C:\Users\samuel.viana\Desktop\curso-cSharp\c# poo\exampledeParamentoToArrar\obj\Debug\exampledeParamentoToArrar.csprojAssemblyReference.cache
+C:\Users\samuel.viana\Desktop\curso-cSharp\c# poo\exampledeParamentoToArrar\obj\Debug\exampledeParamentoToArrar.csproj.CoreCompileInputs.cache
+C:\Users\samuel.viana\Desktop\curso-cSharp\c# poo\exampledeParamentoToArrar\obj\Debug\exampledeParamentoToArrar.exe
+C:\Users\samuel.viana\Desktop\curso-cSharp\c# poo\exampledeParamentoToArrar\obj\Debug\exampledeParamentoToArrar.pdb

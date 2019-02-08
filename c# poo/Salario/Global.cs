@@ -7,7 +7,7 @@ namespace Salario
 {
     class Global
     {
-        public Double Nome;
+        public string Nome;
         public Double SalarioBruto;
         public double Imposto;
         public Double Porcentagem;
@@ -32,6 +32,7 @@ namespace Salario
            + Imposto.ToString("F2", CultureInfo.InvariantCulture)
            +"\n Seu salario liguido: "
            + SalarioLiguido().ToString("F2", CultureInfo.InvariantCulture);
+
 
         }
 

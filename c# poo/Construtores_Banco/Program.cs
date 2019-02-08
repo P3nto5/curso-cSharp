@@ -11,8 +11,7 @@ namespace Construtores_Banco
     {
         static void Main(string[] args)
         {
-            Global conta;
-
+            Global conta;            
             Console.WriteLine("Entre com o numero da conta");
             int numero = int.Parse(Console.ReadLine());
             //Entrada do numero da conta

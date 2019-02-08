@@ -2,3 +2,14 @@ C:\Users\Samuel Viana\Desktop\curso-cSharp\c# poo\Salario\obj\Debug\netcoreapp2.
 C:\Users\Samuel Viana\Desktop\curso-cSharp\c# poo\Salario\obj\Debug\netcoreapp2.1\ToString_Salario.csproj.CoreCompileInputs.cache
 C:\Users\Samuel Viana\Desktop\curso-cSharp\c# poo\Salario\obj\Debug\netcoreapp2.1\ToString_Salario.AssemblyInfoInputs.cache
 C:\Users\Samuel Viana\Desktop\curso-cSharp\c# poo\Salario\obj\Debug\netcoreapp2.1\ToString_Salario.AssemblyInfo.cs
+C:\Users\samuel.viana\Desktop\curso-cSharp\c# poo\Salario\bin\Debug\netcoreapp2.1\ToString_Salario.deps.json
+C:\Users\samuel.viana\Desktop\curso-cSharp\c# poo\Salario\bin\Debug\netcoreapp2.1\ToString_Salario.runtimeconfig.json
+C:\Users\samuel.viana\Desktop\curso-cSharp\c# poo\Salario\bin\Debug\netcoreapp2.1\ToString_Salario.runtimeconfig.dev.json
+C:\Users\samuel.viana\Desktop\curso-cSharp\c# poo\Salario\bin\Debug\netcoreapp2.1\ToString_Salario.dll
+C:\Users\samuel.viana\Desktop\curso-cSharp\c# poo\Salario\bin\Debug\netcoreapp2.1\ToString_Salario.pdb
+C:\Users\samuel.viana\Desktop\curso-cSharp\c# poo\Salario\obj\Debug\netcoreapp2.1\ToString_Salario.csprojAssemblyReference.cache
+C:\Users\samuel.viana\Desktop\curso-cSharp\c# poo\Salario\obj\Debug\netcoreapp2.1\ToString_Salario.csproj.CoreCompileInputs.cache
+C:\Users\samuel.viana\Desktop\curso-cSharp\c# poo\Salario\obj\Debug\netcoreapp2.1\ToString_Salario.AssemblyInfoInputs.cache
+C:\Users\samuel.viana\Desktop\curso-cSharp\c# poo\Salario\obj\Debug\netcoreapp2.1\ToString_Salario.AssemblyInfo.cs
+C:\Users\samuel.viana\Desktop\curso-cSharp\c# poo\Salario\obj\Debug\netcoreapp2.1\ToString_Salario.dll
+C:\Users\samuel.viana\Desktop\curso-cSharp\c# poo\Salario\obj\Debug\netcoreapp2.1\ToString_Salario.pdb

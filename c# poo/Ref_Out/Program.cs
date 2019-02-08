@@ -10,6 +10,17 @@ namespace Ref_Out
     {
         static void Main(string[] args)
         {
+            
+            int number;
+            Console.WriteLine("Digite um numero : ");
+            number = int.Parse(Console.ReadLine());
+            Global.triplo(ref number);
+            Console.WriteLine("Ref and triplo"+number);
+            int quadruplo;
+            Global.quadruplo(number,out quadruplo);
+            Console.WriteLine("out and quadruplo"+quadruplo);
+
+            Console.ReadKey(true);
         }
     }
 }

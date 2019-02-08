@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Globalization;
 
 namespace Salario
 {
@@ -11,10 +12,10 @@ namespace Salario
             G.Nome = Console.ReadLine();
 
             Console.WriteLine("Salario bruto");
-            G.SalarioBruto = double.Parse(Console.ReadLine());
+            G.SalarioBruto = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
 
             Console.WriteLine("Imposto");
-            G.Imposto = double.Parse(Console.ReadLine());
+            G.Imposto = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
 
             Console.WriteLine();
             Console.WriteLine("Dados: "+G);
