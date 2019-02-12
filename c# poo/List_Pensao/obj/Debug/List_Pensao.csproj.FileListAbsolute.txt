@@ -1,0 +1,7 @@
+C:\Users\samuel.viana\Desktop\curso-cSharp\c# poo\List_Pensao\bin\Debug\List_Pensao.exe.config
+C:\Users\samuel.viana\Desktop\curso-cSharp\c# poo\List_Pensao\bin\Debug\List_Pensao.exe
+C:\Users\samuel.viana\Desktop\curso-cSharp\c# poo\List_Pensao\bin\Debug\List_Pensao.pdb
+C:\Users\samuel.viana\Desktop\curso-cSharp\c# poo\List_Pensao\obj\Debug\List_Pensao.csprojAssemblyReference.cache
+C:\Users\samuel.viana\Desktop\curso-cSharp\c# poo\List_Pensao\obj\Debug\List_Pensao.csproj.CoreCompileInputs.cache
+C:\Users\samuel.viana\Desktop\curso-cSharp\c# poo\List_Pensao\obj\Debug\List_Pensao.exe
+C:\Users\samuel.viana\Desktop\curso-cSharp\c# poo\List_Pensao\obj\Debug\List_Pensao.pdb

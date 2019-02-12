@@ -1,0 +1,7 @@
+C:\Users\samuel.viana\Desktop\curso-cSharp\c# poo\List_Emplyoeed\bin\Debug\List_Emplyoeed.exe.config
+C:\Users\samuel.viana\Desktop\curso-cSharp\c# poo\List_Emplyoeed\bin\Debug\List_Emplyoeed.exe
+C:\Users\samuel.viana\Desktop\curso-cSharp\c# poo\List_Emplyoeed\bin\Debug\List_Emplyoeed.pdb
+C:\Users\samuel.viana\Desktop\curso-cSharp\c# poo\List_Emplyoeed\obj\Debug\List_Emplyoeed.csprojAssemblyReference.cache
+C:\Users\samuel.viana\Desktop\curso-cSharp\c# poo\List_Emplyoeed\obj\Debug\List_Emplyoeed.csproj.CoreCompileInputs.cache
+C:\Users\samuel.viana\Desktop\curso-cSharp\c# poo\List_Emplyoeed\obj\Debug\List_Emplyoeed.exe
+C:\Users\samuel.viana\Desktop\curso-cSharp\c# poo\List_Emplyoeed\obj\Debug\List_Emplyoeed.pdb
