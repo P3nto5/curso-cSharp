@@ -1,0 +1,7 @@
+C:\Users\samuel.viana\Desktop\curso-cSharp\c# poo\List\bin\Debug\List.exe.config
+C:\Users\samuel.viana\Desktop\curso-cSharp\c# poo\List\bin\Debug\List.exe
+C:\Users\samuel.viana\Desktop\curso-cSharp\c# poo\List\bin\Debug\List.pdb
+C:\Users\samuel.viana\Desktop\curso-cSharp\c# poo\List\obj\Debug\List.csprojAssemblyReference.cache
+C:\Users\samuel.viana\Desktop\curso-cSharp\c# poo\List\obj\Debug\List.csproj.CoreCompileInputs.cache
+C:\Users\samuel.viana\Desktop\curso-cSharp\c# poo\List\obj\Debug\List.exe
+C:\Users\samuel.viana\Desktop\curso-cSharp\c# poo\List\obj\Debug\List.pdb

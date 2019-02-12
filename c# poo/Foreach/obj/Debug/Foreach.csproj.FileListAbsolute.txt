@@ -1,0 +1,7 @@
+C:\Users\samuel.viana\Desktop\curso-cSharp\c# poo\Foreach\bin\Debug\Foreach.exe.config
+C:\Users\samuel.viana\Desktop\curso-cSharp\c# poo\Foreach\bin\Debug\Foreach.exe
+C:\Users\samuel.viana\Desktop\curso-cSharp\c# poo\Foreach\bin\Debug\Foreach.pdb
+C:\Users\samuel.viana\Desktop\curso-cSharp\c# poo\Foreach\obj\Debug\Foreach.csprojAssemblyReference.cache
+C:\Users\samuel.viana\Desktop\curso-cSharp\c# poo\Foreach\obj\Debug\Foreach.csproj.CoreCompileInputs.cache
+C:\Users\samuel.viana\Desktop\curso-cSharp\c# poo\Foreach\obj\Debug\Foreach.exe
+C:\Users\samuel.viana\Desktop\curso-cSharp\c# poo\Foreach\obj\Debug\Foreach.pdb

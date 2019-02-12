@@ -10,6 +10,12 @@ namespace Foreach
     {
         static void Main(string[] args)
         {
+            string[] vt = new string[] { "Maria", "joana", "noel" };
+            foreach (var obj in vt)
+            {
+                Console.WriteLine(obj);
+            }
+            Console.ReadKey(true);
         }
     }
 }
