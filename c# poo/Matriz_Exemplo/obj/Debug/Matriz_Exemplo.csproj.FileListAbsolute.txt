@@ -1,0 +1,7 @@
+C:\Users\samuel.viana\Desktop\curso-cSharp\c# poo\Matriz_Exemplo\bin\Debug\Matriz_Exemplo.exe.config
+C:\Users\samuel.viana\Desktop\curso-cSharp\c# poo\Matriz_Exemplo\bin\Debug\Matriz_Exemplo.exe
+C:\Users\samuel.viana\Desktop\curso-cSharp\c# poo\Matriz_Exemplo\bin\Debug\Matriz_Exemplo.pdb
+C:\Users\samuel.viana\Desktop\curso-cSharp\c# poo\Matriz_Exemplo\obj\Debug\Matriz_Exemplo.csprojAssemblyReference.cache
+C:\Users\samuel.viana\Desktop\curso-cSharp\c# poo\Matriz_Exemplo\obj\Debug\Matriz_Exemplo.csproj.CoreCompileInputs.cache
+C:\Users\samuel.viana\Desktop\curso-cSharp\c# poo\Matriz_Exemplo\obj\Debug\Matriz_Exemplo.exe
+C:\Users\samuel.viana\Desktop\curso-cSharp\c# poo\Matriz_Exemplo\obj\Debug\Matriz_Exemplo.pdb

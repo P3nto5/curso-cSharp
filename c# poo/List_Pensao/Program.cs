@@ -16,11 +16,23 @@ namespace List_Pensao
             List<Students> listStudents = new List<Students>();
             for (int i = 1; i <= n; i++)
             {
-                Console.Write("Enter the "+i+"° of the room :");
+                Console.WriteLine("Enter the "+i+"° of the room : \n");
                 int numberRoom = int.Parse(Console.ReadLine());
                 if (numberRoom>0 && numberRoom<10)
                 {
-                    Console.WriteLine("Free room");
+                    Console.WriteLine("Ok room");
+                    Students aux = listStudents.Find(x => x.Id == numberRoom);
+                    if(aux != null)
+                    {
+                        Console.WriteLine("Occupied room enter outher room \n");
+                        int numberFreeRoom = int.Parse(Console.ReadLine());
+                        listStudents.Add(new Students(numberFreeRoom));
+
+                    }
+                    else
+                    {
+                        Console.WriteLine("Free room ");
+                    }
                                                                          
                 }
                 else
@@ -32,6 +44,7 @@ namespace List_Pensao
             }
             foreach (Students obj in listStudents)
             {
+
                 Console.WriteLine(obj);
             }
             Console.ReadKey(true);

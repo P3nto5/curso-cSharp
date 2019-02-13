@@ -1,0 +1,7 @@
+C:\Users\samuel.viana\Desktop\curso-cSharp\c# poo\HashSet\bin\Debug\HashSet.exe.config
+C:\Users\samuel.viana\Desktop\curso-cSharp\c# poo\HashSet\bin\Debug\HashSet.exe
+C:\Users\samuel.viana\Desktop\curso-cSharp\c# poo\HashSet\bin\Debug\HashSet.pdb
+C:\Users\samuel.viana\Desktop\curso-cSharp\c# poo\HashSet\obj\Debug\HashSet.csprojAssemblyReference.cache
+C:\Users\samuel.viana\Desktop\curso-cSharp\c# poo\HashSet\obj\Debug\HashSet.csproj.CoreCompileInputs.cache
+C:\Users\samuel.viana\Desktop\curso-cSharp\c# poo\HashSet\obj\Debug\HashSet.exe
+C:\Users\samuel.viana\Desktop\curso-cSharp\c# poo\HashSet\obj\Debug\HashSet.pdb
