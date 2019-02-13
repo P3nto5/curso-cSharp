@@ -3,6 +3,9 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using HashSet.Entities;
+using HashSet.Entities.Enuns;
+
 
 namespace HashSet
 {
@@ -66,7 +69,23 @@ namespace HashSet
                 Console.WriteLine(x);
             }
 
+
+            Order order = new Order()
+            {
+                Id = 1080,
+                Moment = DateTime.Now,
+                Status = OrderStatus.PendingPayment
+            };
+
+            Console.WriteLine(order);
+
+            string txt = OrderStatus.PendingPayment.ToString();
+
+            OrderStatus os = Enum.Parse<OrderStatus>("Delivered");
+
             Console.ReadKey(true);
+
+            
         }
     }
 }
