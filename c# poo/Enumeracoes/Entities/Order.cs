@@ -1,10 +1,9 @@
-﻿using Course.Entities.Enums;
+﻿using Enumeracoes.Entities.Enums;
 using System;
 using System.Collections.Generic;
 using System.Text;
 
-
-namespace Course.Entities
+namespace Enumeracoes.Entities
 {
     class Order
     {
@@ -14,11 +13,11 @@ namespace Course.Entities
 
         public override string ToString()
         {
-            return Id
-                + ", "
-                + Moment
-                + ", "
-                + Status;
+            return Id +
+                ", " +
+                Moment +
+                ", " +
+                Status;
         }
     }
 }

@@ -1,0 +1,7 @@
+C:\Users\samuel.viana\Desktop\curso-cSharp\c# poo\Composi\bin\Debug\Composi.exe.config
+C:\Users\samuel.viana\Desktop\curso-cSharp\c# poo\Composi\bin\Debug\Composi.exe
+C:\Users\samuel.viana\Desktop\curso-cSharp\c# poo\Composi\bin\Debug\Composi.pdb
+C:\Users\samuel.viana\Desktop\curso-cSharp\c# poo\Composi\obj\Debug\Composi.csprojAssemblyReference.cache
+C:\Users\samuel.viana\Desktop\curso-cSharp\c# poo\Composi\obj\Debug\Composi.csproj.CoreCompileInputs.cache
+C:\Users\samuel.viana\Desktop\curso-cSharp\c# poo\Composi\obj\Debug\Composi.exe
+C:\Users\samuel.viana\Desktop\curso-cSharp\c# poo\Composi\obj\Debug\Composi.pdb

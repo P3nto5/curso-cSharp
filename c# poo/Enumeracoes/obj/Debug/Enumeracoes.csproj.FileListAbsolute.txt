@@ -1,0 +1,7 @@
+C:\Users\samuel.viana\Desktop\curso-cSharp\c# poo\Enumeracoes\obj\Debug\Enumeracoes.csprojAssemblyReference.cache
+C:\Users\samuel.viana\Desktop\curso-cSharp\c# poo\Enumeracoes\obj\Debug\Enumeracoes.csproj.CoreCompileInputs.cache
+C:\Users\samuel.viana\Desktop\curso-cSharp\c# poo\Enumeracoes\bin\Debug\Enumeracoes.exe.config
+C:\Users\samuel.viana\Desktop\curso-cSharp\c# poo\Enumeracoes\bin\Debug\Enumeracoes.exe
+C:\Users\samuel.viana\Desktop\curso-cSharp\c# poo\Enumeracoes\bin\Debug\Enumeracoes.pdb
+C:\Users\samuel.viana\Desktop\curso-cSharp\c# poo\Enumeracoes\obj\Debug\Enumeracoes.exe
+C:\Users\samuel.viana\Desktop\curso-cSharp\c# poo\Enumeracoes\obj\Debug\Enumeracoes.pdb
