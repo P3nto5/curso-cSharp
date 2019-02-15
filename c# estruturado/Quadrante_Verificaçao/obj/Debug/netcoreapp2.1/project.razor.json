@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "c:\\Users\\samuel.viana\\Desktop\\curso-cSharp\\c# estruturado\\Quadrante_Verificaçao\\Quadrante_Verificaçao.csproj",
+  "TargetFramework": "netcoreapp2.1",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "UnsupportedRazor",
+    "LanguageVersion": "1.0",
+    "Extensions": [
+      {
+        "ExtensionName": "UnsupportedRazorExtension"
+      }
+    ]
+  }
+}

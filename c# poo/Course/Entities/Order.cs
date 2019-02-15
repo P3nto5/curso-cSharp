@@ -1,10 +1,9 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using HashSet.Entities.Enuns;
-namespace HashSet.Entities
+﻿using Course.Entities.Enums;
+using System;
+
+
+
+namespace Course.Entities
 {
     class Order
     {
@@ -19,8 +18,6 @@ namespace HashSet.Entities
                 + Moment
                 + ", "
                 + Status;
-
         }
-
     }
 }

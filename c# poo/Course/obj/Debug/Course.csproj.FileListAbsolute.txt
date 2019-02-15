@@ -1,0 +1,7 @@
+C:\Users\samuel.viana\Desktop\curso-cSharp\c# poo\Course\bin\Debug\Course.exe.config
+C:\Users\samuel.viana\Desktop\curso-cSharp\c# poo\Course\bin\Debug\Course.exe
+C:\Users\samuel.viana\Desktop\curso-cSharp\c# poo\Course\bin\Debug\Course.pdb
+C:\Users\samuel.viana\Desktop\curso-cSharp\c# poo\Course\obj\Debug\Course.csprojAssemblyReference.cache
+C:\Users\samuel.viana\Desktop\curso-cSharp\c# poo\Course\obj\Debug\Course.csproj.CoreCompileInputs.cache
+C:\Users\samuel.viana\Desktop\curso-cSharp\c# poo\Course\obj\Debug\Course.exe
+C:\Users\samuel.viana\Desktop\curso-cSharp\c# poo\Course\obj\Debug\Course.pdb

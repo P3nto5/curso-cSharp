@@ -1,10 +1,10 @@
-﻿namespace HashSet.Entities.Enuns
+﻿namespace Enum.Entities.Enums
 {
     enum OrderStatus : int
     {
-        PendingPayment = 0,
+        PendingPayment = 0 ,
         Processing = 1,
         Shipped = 2,
         Delivered = 3
-    }
+    };
 }

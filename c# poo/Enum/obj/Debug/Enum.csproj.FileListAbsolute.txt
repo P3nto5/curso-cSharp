@@ -1,0 +1,7 @@
+C:\Users\samuel.viana\Desktop\curso-cSharp\c# poo\Enum\bin\Debug\Enum.exe.config
+C:\Users\samuel.viana\Desktop\curso-cSharp\c# poo\Enum\bin\Debug\Enum.exe
+C:\Users\samuel.viana\Desktop\curso-cSharp\c# poo\Enum\bin\Debug\Enum.pdb
+C:\Users\samuel.viana\Desktop\curso-cSharp\c# poo\Enum\obj\Debug\Enum.csprojAssemblyReference.cache
+C:\Users\samuel.viana\Desktop\curso-cSharp\c# poo\Enum\obj\Debug\Enum.csproj.CoreCompileInputs.cache
+C:\Users\samuel.viana\Desktop\curso-cSharp\c# poo\Enum\obj\Debug\Enum.exe
+C:\Users\samuel.viana\Desktop\curso-cSharp\c# poo\Enum\obj\Debug\Enum.pdb
