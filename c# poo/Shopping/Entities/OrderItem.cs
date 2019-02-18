@@ -26,11 +26,11 @@ namespace Shopping.Entities
         public override string ToString()
         {
             return product.Price
-                + ", $"
+                + ", $ "
                 + Price.ToString("F2", CultureInfo.InvariantCulture)
-                + ", Quantity"
+                + ",Quantity "
                 + Quantity
-                + ", Subtotal: $"
+                + ",Subtotal: $"
                 + Subtotal().ToString("F2", CultureInfo.InvariantCulture);
 
         }

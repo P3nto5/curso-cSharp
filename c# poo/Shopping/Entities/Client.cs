@@ -23,7 +23,7 @@ namespace Shopping.Entities
         {
             return Name
                 + ", ("
-                + birthDate.ToString("dd/MM/yyyy")
+                + birthDate.ToString("dd/MM/yyyy ")
                 + ") - "
                 + Email;
         }

@@ -47,15 +47,15 @@ namespace Shopping.Entities
         public override string ToString()
         {
             StringBuilder sb = new StringBuilder();
-            sb.AppendLine("Order moment: "+ Date.ToString("dd/MM/yyyy HH:mm:ss"));
-            sb.AppendLine("Order status" + Status);
-            sb.AppendLine("Client" + Client);
-            sb.AppendLine("Order items:");
+            sb.AppendLine("Order moment: "+ Date.ToString("dd/MM/yyyy HH:mm:ss "));
+            sb.AppendLine("Order status " + Status);
+            sb.AppendLine("Client " + Client);
+            sb.AppendLine("Order items: ");
             foreach (OrderItem item in Items)
             {
                 sb.AppendLine(item.ToString());
             }
-            sb.AppendLine("Total price: $" + Total().ToString(("F2"), CultureInfo.InvariantCulture));
+            sb.AppendLine("Total price: $"  + Total().ToString(("F2"), CultureInfo.InvariantCulture));
             return sb.ToString();
 
             
