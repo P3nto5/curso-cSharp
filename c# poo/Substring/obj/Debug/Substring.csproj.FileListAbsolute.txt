@@ -1,0 +1,7 @@
+C:\Users\samuel.viana\Desktop\curso-cSharp\c# poo\Substring\bin\Debug\Substring.exe.config
+C:\Users\samuel.viana\Desktop\curso-cSharp\c# poo\Substring\bin\Debug\Substring.exe
+C:\Users\samuel.viana\Desktop\curso-cSharp\c# poo\Substring\bin\Debug\Substring.pdb
+C:\Users\samuel.viana\Desktop\curso-cSharp\c# poo\Substring\obj\Debug\Substring.csprojAssemblyReference.cache
+C:\Users\samuel.viana\Desktop\curso-cSharp\c# poo\Substring\obj\Debug\Substring.csproj.CoreCompileInputs.cache
+C:\Users\samuel.viana\Desktop\curso-cSharp\c# poo\Substring\obj\Debug\Substring.exe
+C:\Users\samuel.viana\Desktop\curso-cSharp\c# poo\Substring\obj\Debug\Substring.pdb
