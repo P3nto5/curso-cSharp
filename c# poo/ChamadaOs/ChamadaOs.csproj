@@ -43,6 +43,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Entities\Client.cs" />
+    <Compile Include="Entities\Components.cs" />
+    <Compile Include="Entities\Enums\OrderStatus.cs" />
+    <Compile Include="Entities\Ordercs.cs" />
+    <Compile Include="Entities\OrderService.cs" />
+    <Compile Include="Entities\Service.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

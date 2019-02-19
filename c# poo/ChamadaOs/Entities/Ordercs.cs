@@ -46,7 +46,8 @@ namespace ChamadaOs.Entities
         public override string ToString()
         {
             StringBuilder stringBuilder = new StringBuilder();
-            stringBuilder.AppendLine();
+            stringBuilder.AppendLine("Order moment: "+ DateTime.ToString("dd/MM/yyyy HH:mm:ss"));
+            
             stringBuilder.AppendLine("Order status: "+Status);
             stringBuilder.AppendLine("Service: "+Client);
             stringBuilder.AppendLine("Order items:");

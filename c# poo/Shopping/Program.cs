@@ -37,11 +37,15 @@ namespace Shopping
                 Console.WriteLine($"Enter #{i} item date ");
                 Console.WriteLine("Product name ");
                 string productName = Console.ReadLine();
+
                 Console.WriteLine(" Product price ");
                 double price = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+
                 Product product = new Product(productName, price);
+
                 Console.WriteLine("Quantity ");
                 int quantity = int.Parse(Console.ReadLine());
+
                 OrderItem orderItem = new OrderItem(quantity, price, product);
                 order.AddItem(orderItem);                
             }

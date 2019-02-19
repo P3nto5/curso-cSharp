@@ -9,13 +9,13 @@ namespace ChamadaOs.Entities
     class Components
     {
         public string Name { get; set; }
-        public int Code { get; set; }
+        public string Code { get; set; }
 
         public Components()
         {
         }
 
-        public Components(string name, int code)
+        public Components(string name, string code)
         {
             Name = name;
             Code = code;

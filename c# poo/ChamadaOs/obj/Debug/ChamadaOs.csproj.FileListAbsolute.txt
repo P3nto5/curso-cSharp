@@ -1,0 +1,7 @@
+C:\Users\samuel.viana\Desktop\curso-cSharp\c# poo\ChamadaOs\bin\Debug\ChamadaOs.exe.config
+C:\Users\samuel.viana\Desktop\curso-cSharp\c# poo\ChamadaOs\bin\Debug\ChamadaOs.exe
+C:\Users\samuel.viana\Desktop\curso-cSharp\c# poo\ChamadaOs\bin\Debug\ChamadaOs.pdb
+C:\Users\samuel.viana\Desktop\curso-cSharp\c# poo\ChamadaOs\obj\Debug\ChamadaOs.csprojAssemblyReference.cache
+C:\Users\samuel.viana\Desktop\curso-cSharp\c# poo\ChamadaOs\obj\Debug\ChamadaOs.csproj.CoreCompileInputs.cache
+C:\Users\samuel.viana\Desktop\curso-cSharp\c# poo\ChamadaOs\obj\Debug\ChamadaOs.exe
+C:\Users\samuel.viana\Desktop\curso-cSharp\c# poo\ChamadaOs\obj\Debug\ChamadaOs.pdb

@@ -21,11 +21,11 @@ namespace ChamadaOs
             Console.WriteLine("Year of entry (DD/MM/YYYY) ");
             DateTime dateTime = DateTime.Parse(Console.ReadLine());
             Console.WriteLine("Enter order data");
-            Console.WriteLine("Status ");
-            Console.WriteLine(" Pending_Payment ");
-            Console.WriteLine(" Processing ");
-            Console.WriteLine(" Shipped ");
+            Console.WriteLine(" Status ");
             Console.WriteLine(" Delivered ");
+            Console.WriteLine(" Pending ");
+            Console.WriteLine(" done ");
+            
             OrderStatus status;
             Enum.TryParse(Console.ReadLine(), true, out status);
 
@@ -33,6 +33,32 @@ namespace ChamadaOs
             Ordercs order = new Ordercs(DateTime.Now, status, client);
 
             Console.WriteLine("How many services to the order");
+            int n = int.Parse(Console.ReadLine());
+            for (int i = 0; i < n; i++)
+            {
+                Console.WriteLine($"Enter #{i} service date");
+                Console.WriteLine("Service name");
+                string servicename = Console.ReadLine();
+
+                Console.WriteLine("Code of service");
+                string code = Console.ReadLine();
+
+                Console.WriteLine("Date of exit");
+                DateTime date_Exit = DateTime.Parse(Console.ReadLine());
+
+                Console.WriteLine("Date of return");
+                DateTime date_Return = DateTime.Parse(Console.ReadLine());
+
+                Components components = new Components(name, code);
+
+                Console.WriteLine("Quantity");
+                int quantity = int.Parse(Console.ReadLine());
+
+                OrderService orderService = new OrderService(quantity, code, components);
+                order.AddItem(orderService);
+
+            }
+            Console.ReadKey(true);
             
 
 

@@ -9,7 +9,7 @@ namespace ChamadaOs.Entities
     class Service
     {
         public string name { get; set; }
-        public int Quantity { get; set; }
+        public string Code { get; set; }
         public DateTime HourExit { get; set; }
         public DateTime HourEntry { get; set; }
         
@@ -19,10 +19,10 @@ namespace ChamadaOs.Entities
 
         }
 
-        public Service(string name, int quantity, DateTime hourExit, DateTime hourEntry)
+        public Service(string name, string code, DateTime hourExit, DateTime hourEntry)
         {
             this.name = name;
-            Quantity = quantity;
+            Code = code;
             HourExit = hourExit;
             HourEntry = hourEntry;
         }

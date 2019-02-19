@@ -10,25 +10,25 @@ namespace ChamadaOs.Entities
     class OrderService
     {
         public int Quantity { get; set; }
-        public string name { get; set; }
+        public string code { get; set; }
         public Components Components { get; set; }
-
 
         public OrderService()
         {
 
         }
 
-        public OrderService(int quantity, Components components)
+        public OrderService(int quantity, string code, Components components)
         {
             Quantity = quantity;
+            this.code = code;
             Components = components;
         }
 
         public string ConcT()
         {
             string concat;
-            return concat = name + "-" +Quantity;
+            return concat = code + "-" +Quantity;
         }
         public int Cont()
         {
