@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28307.168
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "inhering", "inhering\inhering.csproj", "{1FE359CE-F2B9-4654-8EF6-D4920BF4CADB}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "heranca", "heranca", "{19EE5759-04A0-40B1-BFF9-3AEF5DB9F5C7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,6 +20,9 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{1FE359CE-F2B9-4654-8EF6-D4920BF4CADB} = {19EE5759-04A0-40B1-BFF9-3AEF5DB9F5C7}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {6EEAC331-FE5A-4021-B9E5-11439E2783C7}
