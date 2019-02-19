@@ -27,28 +27,28 @@ namespace ChamadaOs.Entities
 
         public string ConcT()
         {
-            string concat;
-            return concat = code + "-" +Quantity;
+
+            return code;
         }
         public int Cont()
         {
             return Quantity;
         }
 
-
-
         public override string ToString()
         {
-            return Components.Name
-                + ", "
-                + Quantity
-                + ", "
-                + ConcT().ToString()
-                + ", "
+            return Components.NameComponent
+                + " - "
+                + Components.CodeComponent
+                + " - "
+                + Components.CodeComponent
+                + " - "
+                + code
+                + " - "
                 + Cont().ToString();
-        }
 
-
+                
+                }
 
     }
 }

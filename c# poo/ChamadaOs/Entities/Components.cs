@@ -8,17 +8,29 @@ namespace ChamadaOs.Entities
 {
     class Components
     {
-        public string Name { get; set; }
-        public string Code { get; set; }
+        public string NameComponent { get; set; }
+        public string CodeComponent { get; set; }
+        public int QuantyComponent { get; set; }
 
         public Components()
         {
         }
 
-        public Components(string name, string code)
+        public Components(string nameComponent, string codeComponent, int quantyComponent)
         {
-            Name = name;
-            Code = code;
+            NameComponent = nameComponent;
+            CodeComponent = codeComponent;
+            QuantyComponent = quantyComponent;
         }
+        public int ContComp()
+        {
+            return QuantyComponent;
+        }
+        public override string ToString()
+        {
+            return "Quanty Component"               
+                +ContComp().ToString();
+        }
+
     }
 }

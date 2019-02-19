@@ -13,6 +13,7 @@ namespace ChamadaOs.Entities
         public OrderStatus Status { get; set; }
         public Client Client { get; set; }
         public List<OrderService> Items { get; set; } = new List<OrderService>();
+        public List<Components> components { get; set; } = new List<Components>();
 
         public Ordercs()
         {
@@ -33,6 +34,25 @@ namespace ChamadaOs.Entities
         {
             Items.Remove(item);
         }
+        public void AddComponent(Components component)
+        {
+            components.Add(component);
+        }
+        public void RemoveComponent(Components component)
+        {
+            components.Remove(component);
+        }
+
+        public int TotalComponent()
+        {
+            int sum=0;
+            foreach (Components comp in components)
+            {
+                sum += comp.ContComp();
+            }
+            return sum=0;
+        } 
+
         public int TotalServices()
         {
             int sum = 0;
@@ -56,6 +76,11 @@ namespace ChamadaOs.Entities
                 stringBuilder.AppendLine(item.ToString());
             }
             stringBuilder.AppendLine("Total services"+TotalServices());
+            foreach (Components comp in components)
+            {
+                stringBuilder.AppendLine(comp.ToString());
+            }
+            stringBuilder.AppendLine("Total components" + TotalServices());
             return stringBuilder.ToString();
 
             

@@ -5,10 +5,10 @@ namespace ChamadaOs.Entities
 {
     class Client
     {
-        public string Name  { get; set; }
-        public string Email { get; set; }
-        public string Cpf { get; set; }
-        public DateTime AnoEntrada { get; set; }
+        public string NameEmploeed  { get; set; }
+        public string EmailEmployeed { get; set; }
+        public string CpfEmployeed { get; set; }
+        public DateTime AnoEntradaEmplyeed { get; set; }
 
         public Client()
         {
@@ -16,22 +16,23 @@ namespace ChamadaOs.Entities
 
         public Client(string name, string email, string cpf, DateTime anoEntrada)
         {
-            Name = name;
-            Email = email;
-            Cpf = cpf;
-            AnoEntrada = anoEntrada;
+            NameEmploeed = name;
+            EmailEmployeed = email;
+            CpfEmployeed = cpf;
+            AnoEntradaEmplyeed = anoEntrada;
         }
 
         public override string ToString()
         {
-            return Name
-                + ", ("
-                + Cpf.ToString()
-                + ") -"
-                + ", ("
-                +AnoEntrada.ToString("dd/MM/yyyy")
-                +"), -"
-                + Email;
+            return "Name Employeed: " 
+                +NameEmploeed
+                + " cpf("
+                + CpfEmployeed.ToString()
+                + ") - "
+                + "Hour of received ("
+                +AnoEntradaEmplyeed.ToString("dd/MM/yyyy")
+                +") - email:"
+                + EmailEmployeed;
         }
     }
 }
