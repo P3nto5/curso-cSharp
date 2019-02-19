@@ -42,7 +42,7 @@ namespace Shopping
                 double price = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
 
                 Product product = new Product(productName, price);
-
+            
                 Console.WriteLine("Quantity ");
                 int quantity = int.Parse(Console.ReadLine());
 

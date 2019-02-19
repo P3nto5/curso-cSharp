@@ -27,7 +27,6 @@ namespace ChamadaOs.Entities
 
         public string ConcT()
         {
-
             return code;
         }
         public int Cont()
