@@ -28,14 +28,13 @@ namespace ChamadaOs.Entities
         }
         public override string ToString()
         {
-            return "Name"
+            return "name Service"
                 + nameService
-                + "Code"
+                + "Code service"
                 + Code
-                + "Hour Exit"
-                + HourExit.ToString("HH:mm:ss")
-                + "Hour Return"
-                + HourEntry.ToString("HH:mm:ss");
+                + "Hour exit"
+                + HourEntry;
+
         }
     }
 }

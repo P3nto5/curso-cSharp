@@ -12,6 +12,8 @@ namespace ChamadaOs.Entities
         public DateTime DateTime { get; set; }
         public OrderStatus Status { get; set; }
         public Client Client { get; set; }
+        public Service service { get; set; }
+        public OrderService OrderService { get; set; }
         public List<OrderService> Items { get; set; } = new List<OrderService>();
         public List<Components> components { get; set; } = new List<Components>();
 
@@ -69,18 +71,22 @@ namespace ChamadaOs.Entities
             stringBuilder.AppendLine("Order moment: "+ DateTime.ToString("dd/MM/yyyy HH:mm:ss"));
             
             stringBuilder.AppendLine("Order status: "+Status);
-            stringBuilder.AppendLine("Service: "+Client);
+            stringBuilder.AppendLine("Client: "+Client);
+            stringBuilder.AppendLine("Service" + service);
+            stringBuilder.AppendLine("Order service" + OrderService);
             stringBuilder.AppendLine("Order items:");
+            
             foreach (OrderService item in Items)
             {
                 stringBuilder.AppendLine(item.ToString());
             }
             stringBuilder.AppendLine("Total services"+TotalServices());
+            
             foreach (Components comp in components)
             {
                 stringBuilder.AppendLine(comp.ToString());
             }
-            stringBuilder.AppendLine("Total components" + TotalServices());
+            stringBuilder.AppendLine("Total components" + TotalComponent());
             return stringBuilder.ToString();
 
             

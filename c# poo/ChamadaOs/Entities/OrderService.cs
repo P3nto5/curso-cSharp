@@ -25,29 +25,18 @@ namespace ChamadaOs.Entities
             Components = components;
         }
 
-        public string ConcT()
-        {
-            return code;
-        }
+        
         public int Cont()
         {
             return Quantity;
         }
-
         public override string ToString()
         {
-            return Components.NameComponent
-                + " - "
-                + Components.CodeComponent
-                + " - "
-                + Components.CodeComponent
-                + " - "
-                + code
-                + " - "
-                + Cont().ToString();
-
+            return "Quantity of component"
+                + Components.QuantyComponent;
                 
-                }
+
+        }
 
     }
 }
