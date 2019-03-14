@@ -7,6 +7,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "chamadaOs", "chamadaOs", "{
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Call", "Call\Call.csproj", "{276EE5EC-24C6-4B27-8B94-5DCB198BD4E6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CallOs", "Herança\CallOs.csproj", "{9DE13D88-A841-4748-AFBA-EBA63CD25CEA}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Call", "Call", "{6CF9B959-47C2-4434-8A55-3937DBFB4CF4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -17,12 +21,17 @@ Global
 		{276EE5EC-24C6-4B27-8B94-5DCB198BD4E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{276EE5EC-24C6-4B27-8B94-5DCB198BD4E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{276EE5EC-24C6-4B27-8B94-5DCB198BD4E6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9DE13D88-A841-4748-AFBA-EBA63CD25CEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DE13D88-A841-4748-AFBA-EBA63CD25CEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9DE13D88-A841-4748-AFBA-EBA63CD25CEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9DE13D88-A841-4748-AFBA-EBA63CD25CEA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{276EE5EC-24C6-4B27-8B94-5DCB198BD4E6} = {103B4D8F-CFFC-4644-B966-D140801E9300}
+		{9DE13D88-A841-4748-AFBA-EBA63CD25CEA} = {6CF9B959-47C2-4434-8A55-3937DBFB4CF4}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {6EEAC331-FE5A-4021-B9E5-11439E2783C7}
