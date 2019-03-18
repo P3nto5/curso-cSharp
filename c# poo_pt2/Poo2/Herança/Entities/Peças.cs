@@ -28,11 +28,11 @@ namespace CallOs.Entities
         }
         public override string ToString()
         {
-            return "Nome da peça"
+            return "Nome da peça: \n"
                 + NameComponent
-                + "Codigo do componente"
+                + " - Codigo do componente: \n"
                 + CodeComponent
-                + " Quantida de componentes"
+                + "  - Quantida de componentes: \n"
                 + QuantComponent;
         }
     }

@@ -60,7 +60,8 @@ namespace Herança
                     string pecNome = Console.ReadLine();
                     Console.WriteLine($"O #{j}° codigo");
                     int pecCode = int.Parse(Console.ReadLine());
-                    int pecQuant = nPec;
+                    Console.WriteLine("quantidade do componente");
+                    int pecQuant = int.Parse(Console.ReadLine());
                     Peças peças = new Peças(pecNome, pecCode, pecQuant);
 
                     ordem.AddPecas(peças);

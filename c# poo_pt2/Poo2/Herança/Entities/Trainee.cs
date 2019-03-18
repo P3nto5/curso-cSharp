@@ -29,15 +29,15 @@ namespace CallOs.Entities
 
         public override string ToString()
         {
-            return "Nome do estagiario \n"
+            return "Nome do estagiario: - \n"
                 + NameTrainee
-                + " Email \n"
+                + " - Email \n"
                 + EmailTrainee
-                + " Numero do estagiagio"
+                + " - Numero do estagiagio: \n"
                 + NumberTrainee
-                + "Code do estagiario"
+                + " - Code do estagiario: \n"
                 + CodeTrainee
-                + " Ano de entrada "
+                + " - Ano de entrada: \n"
                 + DataDeEntrada.ToString("dd/MM/yyy");
             
         }

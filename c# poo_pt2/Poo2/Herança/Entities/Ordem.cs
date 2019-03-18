@@ -13,8 +13,8 @@ namespace CallOs.Entities
         public EnumServico Status { get; set; }
         public Trainee Trainee { get; set; }
         public Requester Requester { get; set; }
-        public OrdemServico OrdemServicos { get; set; } 
-        public List<Servicos> Servicos { get; set; }
+        public OrdemServico OrdemServicos { get; set; }
+        public List<Servicos> Servicos { get; set; } = new List<Servicos>();
         public List<Peças> Peças { get; set; } = new List<Peças>();
 
         public Ordem()
@@ -70,19 +70,19 @@ namespace CallOs.Entities
             StringBuilder stb = new StringBuilder();
             stb.AppendLine("Order moment: \n" + DateTime.ToString("dd/MM/yyyy"));
             stb.AppendLine("Status: \n" + Status);
-            stb.AppendLine("Dados estagiarios" + Trainee);
-            stb.AppendLine("Dados requisitante" + Requester);
+            stb.AppendLine("Dados estagiarios: \n" + Trainee);
+            stb.AppendLine("Dados requisitante: \n" + Requester);
 
             foreach  (Servicos serv in Servicos)
             {
                 stb.AppendLine(serv.ToString());
             }
-            stb.AppendLine("Total serviços" + TotalService());
+            stb.AppendLine("Total serviços: \n" + TotalService());
             foreach (Peças pec in Peças)
             {
                 stb.AppendLine(pec.ToString());
             }
-            stb.AppendLine("Total de peças" + TotalPeca());
+            stb.AppendLine("Total de peças: \n" + TotalPeca());
             return stb.ToString();
         }
 

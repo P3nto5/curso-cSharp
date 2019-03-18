@@ -22,9 +22,9 @@ namespace CallOs.Entities
         }
         public override string ToString()
         {
-            return "Nome do requisitante"
+            return "Nome do requisitante: \n"
                 + NameRequest
-                + "Code do requisitante"
+                + " - Code do requisitante: \n"
                 + CodeRequest;
         }
     }

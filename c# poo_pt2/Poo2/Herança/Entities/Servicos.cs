@@ -30,7 +30,7 @@ namespace CallOs.Entities
         {
             return "Nome do serviço: \n"
                 + NameService
-                + "Codigo do serviço"
+                + " - Codigo do serviço: \n"
                 + CodeService;
                
 
