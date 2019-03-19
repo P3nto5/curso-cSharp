@@ -50,6 +50,8 @@ namespace Course
             }
             Console.WriteLine();
             Console.WriteLine("TOTAL TAXES: $ " + sum);
+            Console.ReadKey(true);
         }
+        
     }
 }
