@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{D41469CE-5D35-4D82-B425-981D646E259B}</ProjectGuid>
+    <ProjectGuid>{CAA08CC0-0DDA-44A8-890E-462628B33BAA}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>ShapeArea</RootNamespace>
-    <AssemblyName>ShapeArea</AssemblyName>
+    <RootNamespace>Interface</RootNamespace>
+    <AssemblyName>Interface</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,17 +43,17 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Model\Entities\AbstractShape.cs" />
-    <Compile Include="Model\Entities\Circle.cs" />
-    <Compile Include="Model\Entities\IShape.cs" />
-    <Compile Include="Model\Enum\Color.cs" />
-    <Compile Include="Model\Entities\Rectangle.cs" />
+    <Compile Include="Entities\CarRental.cs" />
+    <Compile Include="Entities\Invoice.cs" />
+    <Compile Include="Entities\Vehicle.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Services\BrazilTaxService.cs" />
+    <Compile Include="Services\ITaxService.cs" />
+    <Compile Include="Services\RentalService.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
-  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

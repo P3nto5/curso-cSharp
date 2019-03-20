@@ -4,12 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ShapeArea.Entities.Enum
+namespace Interface.Services
 {
-    enum Color 
+    interface ITaxService
     {
-        Black,
-        Blue,
-        Red 
+        double Tax(double amount);
     }
 }

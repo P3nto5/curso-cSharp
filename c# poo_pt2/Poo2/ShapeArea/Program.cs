@@ -3,9 +3,10 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Globalization;
 using ShapeArea.Entities.Enum;
 using ShapeArea.Entities;
-using System.Globalization;
+using ShapeArea.Model.Entities;
 
 namespace ShapeArea
 {
@@ -13,7 +14,20 @@ namespace ShapeArea
     {
         static void Main(string[] args)
         {
-            List<Shape> list = new List<Shape>();
+
+            IShape s1 = new Circle()
+            {
+                Radius = 2.0, Color = Color.Black
+            };
+            IShape s2 = new Rectangle()
+            {
+                Width = 3.5, Height = 4.2, Color = Color.White 
+            };
+            Console.WriteLine(s1);
+            Console.WriteLine(s2);
+
+
+           /* List<Shape> list = new List<Shape>();
 
             Console.WriteLine("Enter the number of shapes");
             int n = int.Parse(Console.ReadLine());
@@ -46,6 +60,7 @@ namespace ShapeArea
             {
                 Console.WriteLine(sh.Area().ToString("F2", CultureInfo.InvariantCulture));
             }
+            */
             Console.ReadKey(true);
         }
     }

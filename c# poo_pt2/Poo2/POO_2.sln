@@ -65,6 +65,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pathh", "Pathh\Pathh.csproj
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LojaArqui", "LojaArqui\LojaArqui.csproj", "{888579DC-4878-42C4-A2FE-EC35DA338EF2}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Infacebook", "Infacebook", "{3216C761-8FB6-4541-B517-B005BE920777}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interface", "Interface\Interface.csproj", "{CAA08CC0-0DDA-44A8-890E-462628B33BAA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -143,6 +147,10 @@ Global
 		{888579DC-4878-42C4-A2FE-EC35DA338EF2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{888579DC-4878-42C4-A2FE-EC35DA338EF2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{888579DC-4878-42C4-A2FE-EC35DA338EF2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CAA08CC0-0DDA-44A8-890E-462628B33BAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CAA08CC0-0DDA-44A8-890E-462628B33BAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CAA08CC0-0DDA-44A8-890E-462628B33BAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CAA08CC0-0DDA-44A8-890E-462628B33BAA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -166,6 +174,7 @@ Global
 		{B8B79D82-D4C5-4B01-8CD2-6D3AE45E4BA4} = {83B5FB2A-43B8-43F8-BB23-04BD2E8655F1}
 		{C7677471-80B2-4FC3-BCF6-3320566DC0A5} = {83B5FB2A-43B8-43F8-BB23-04BD2E8655F1}
 		{888579DC-4878-42C4-A2FE-EC35DA338EF2} = {83B5FB2A-43B8-43F8-BB23-04BD2E8655F1}
+		{CAA08CC0-0DDA-44A8-890E-462628B33BAA} = {3216C761-8FB6-4541-B517-B005BE920777}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {6EEAC331-FE5A-4021-B9E5-11439E2783C7}
